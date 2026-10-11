@@ -1,0 +1,1755 @@
+{
+  "note": "PanPop 全量本地食品素材，源 SVG 原样复制。素材预览与完整菜谱分别标记。",
+  "assets": [
+    {
+      "id": "I001",
+      "name": "胡萝卜",
+      "file": "/food/I001.svg",
+      "sha256": "ad63cb794f6745b3b6e7439b841ea0024ab7db7fac5e2d610c475132fc701fef",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I002",
+      "name": "黄瓜",
+      "file": "/food/I002.svg",
+      "sha256": "2b65384a50dd4a32177e4fbd5ef2c7e15ac040d8cb757204a2ced7703af78ef6",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I003",
+      "name": "土豆",
+      "file": "/food/I003.svg",
+      "sha256": "4d205633a85e1886522dca41336303678cd19e4e26e5313c6a8034a785ea6b52",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I004",
+      "name": "洋葱",
+      "file": "/food/I004.svg",
+      "sha256": "6c3f86aced072f81658cf93a261556ee6cd321e578ecb2072328f83f982d44ea",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I005",
+      "name": "大蒜",
+      "file": "/food/I005.svg",
+      "sha256": "dde8c4ab32bbb0e69504015611bc78b1264de9c0a453934346580ac83e14cbc9",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I006",
+      "name": "茄子",
+      "file": "/food/I006.svg",
+      "sha256": "bb1c7c0f9bc2a8e34c2f58658c0f37264e45b06320e474f3df6dc25d9f69314d",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I007",
+      "name": "南瓜",
+      "file": "/food/I007.svg",
+      "sha256": "1ffe773eb080de4aaa4bad37dd9f5fa0a74d9889dd4b5e95243e4857e63be2b3",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I008",
+      "name": "玉米",
+      "file": "/food/I008.svg",
+      "sha256": "691aadcdfdc4223d8cd71539b0162fe6c2e7e155610883b493b29bd1f74347fb",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I009",
+      "name": "柠檬",
+      "file": "/food/I009.svg",
+      "sha256": "1b326accc3577040300e69d0099228de8ce54cdc7c64113afdc36e89d51039e9",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I010",
+      "name": "虾",
+      "file": "/food/I010.svg",
+      "sha256": "8afa5bcf373d9fc71d8ebc69d4a73ff6193467a5c664552e392f904cf8fb7259",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I011",
+      "name": "西兰花",
+      "file": "/food/I011.svg",
+      "sha256": "e1ad012036ff86a6e41973080e5f4151e1390ec59869d73681be7b83bea77e9d",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I012",
+      "name": "菠菜",
+      "file": "/food/I012.svg",
+      "sha256": "5f63b2635e2334b336d6514c66671fdbb7d1af6a131b3d26baf29f48ea0bba3a",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I013",
+      "name": "小白菜",
+      "file": "/food/I013.svg",
+      "sha256": "9bf89bb4f54cc92db05fb78a6574e110c1d330c35e7a5c4bbd0cfea8c26d7657",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I014",
+      "name": "生菜",
+      "file": "/food/I014.svg",
+      "sha256": "11bba112493de8f3343f72b4026f1464536cafbe3cd0d1741554c76923271733",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I015",
+      "name": "卷心菜",
+      "file": "/food/I015.svg",
+      "sha256": "990fc5a59773512d83d36675266ed138c35d0c3e3c53d7cd2534a002897b6303",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I016",
+      "name": "大白菜",
+      "file": "/food/I016.svg",
+      "sha256": "8b42ed1ae7b824998f36569fb55ea3cf6e24b985d63563f99b238ab32347c69c",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I017",
+      "name": "芹菜",
+      "file": "/food/I017.svg",
+      "sha256": "fb6557fd086cb6f51f25e34beb3b2dc11b4b87fe6c1f95f99f3200ab6708f0f0",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I018",
+      "name": "韭菜",
+      "file": "/food/I018.svg",
+      "sha256": "2c350e7cca2079b8e6f3715608821c210eac576d0bb324f460ce0da011da2732",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I019",
+      "name": "小葱",
+      "file": "/food/I019.svg",
+      "sha256": "bb84e1b33d397340666dc689a54ba15679a7d98d1c07c829711e8eeb3a1a8fe8",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I020",
+      "name": "香菜",
+      "file": "/food/I020.svg",
+      "sha256": "13667ccea0b0d2a0a0634d308beb8f3816b74e5f7bffb8dc1a31c4030942c87b",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I021",
+      "name": "芦笋",
+      "file": "/food/I021.svg",
+      "sha256": "b38b8dc2a1bbf76178d84a4e26c076805ff89a74398abb2ce919a9f804191623",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I022",
+      "name": "上海青",
+      "file": "/food/I022.svg",
+      "sha256": "b0c8f51254360a952f4da49f4b1066d00a22657d75fa9899bd4bbf0f55233ce0",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I023",
+      "name": "茼蒿",
+      "file": "/food/I023.svg",
+      "sha256": "3da848d4ec7714de27fa28d7e181a2c37d0c1ed1f7522ac9b9dcf289fe23ff2c",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I024",
+      "name": "油麦菜",
+      "file": "/food/I024.svg",
+      "sha256": "940fada585ca92e1c65da7b1f4b121d49d4a0c23052f64102365ff36cc7881a7",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I025",
+      "name": "番茄",
+      "file": "/food/I025.svg",
+      "sha256": "d370131f93439cecc2d66a3352bf6c720e7a2d906dac0710725dd3e2730690a4",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I026",
+      "name": "红椒",
+      "file": "/food/I026.svg",
+      "sha256": "1e0dc9f260c4aea60d5740e696bdbcc5551c9e018124d51eab15e0e863650a08",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I027",
+      "name": "青椒",
+      "file": "/food/I027.svg",
+      "sha256": "f49742316ff4f0c54670a5c17f50a73b6bef2087634f7115e170db13c3529a02",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I028",
+      "name": "黄椒",
+      "file": "/food/I028.svg",
+      "sha256": "b7b4c30fd3a457de840c5e56edeb47ad69c7c1e9e6a7d4b8e4923a8799fba8e0",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I029",
+      "name": "尖椒",
+      "file": "/food/I029.svg",
+      "sha256": "a6a72c04710fe1524b67ed7cfa121e7ebf7f3e9af5430caa4e3eb6a7806edcf7",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I030",
+      "name": "秋葵",
+      "file": "/food/I030.svg",
+      "sha256": "0900cc22aa7ae35bd6dea86a230f1893a0125059d00b125d0bf4f3fc5bbd1509",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I031",
+      "name": "苦瓜",
+      "file": "/food/I031.svg",
+      "sha256": "2e38db21291ed67b5bf349d361a5da4879cc10a5b3c4fce305db15c110c1b87b",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I032",
+      "name": "西葫芦",
+      "file": "/food/I032.svg",
+      "sha256": "af35ae7c4dd89ed85b8bdb08ed53b436e761b66038055569ef76b73e5a7e8ba1",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I033",
+      "name": "黄花菜",
+      "file": "/food/I033.svg",
+      "sha256": "05b08d2ad90ddec3042377d622bed66ec5cf04bc9376eefe7821b293dd247a9d",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I034",
+      "name": "萝卜",
+      "file": "/food/I034.svg",
+      "sha256": "89793c79924345a8c4b5f3683dfd4aa955ae24cc6503b8e3f5ba9921e73e5502",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I035",
+      "name": "紫薯",
+      "file": "/food/I035.svg",
+      "sha256": "fe4d97410d4697093cb0cc757e30e1fb62c51ad52e73df3d6bc31afc05abc630",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I036",
+      "name": "红薯",
+      "file": "/food/I036.svg",
+      "sha256": "2dd9ad37ecd05e41c039620e828e206c19129a488f2a08033ddc83bdb7010be6",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I037",
+      "name": "莲藕",
+      "file": "/food/I037.svg",
+      "sha256": "53b731a50306b0d05572d26695b5db4c37aa0b4d74ea5901e3a3d48437da6430",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I038",
+      "name": "山药",
+      "file": "/food/I038.svg",
+      "sha256": "0c21c67b07e9d0668d3f8b92365ee5a1fee8cfe7b3c9e1c734b6126fc83c42a5",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I039",
+      "name": "芋头",
+      "file": "/food/I039.svg",
+      "sha256": "791939370b8e6dc5f1597460a2a8441b639aab413eb986f6cb96b24b5669cd2d",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I040",
+      "name": "生姜",
+      "file": "/food/I040.svg",
+      "sha256": "0331b84295875db3372788a1d36f5b6b4d8689c8e9a0605277156dedc120d483",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I041",
+      "name": "香菇",
+      "file": "/food/I041.svg",
+      "sha256": "05bc77cdebdfa3e70fdc11446ce89251515525b86740b1656d9741422e4f5a8f",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I042",
+      "name": "口蘑",
+      "file": "/food/I042.svg",
+      "sha256": "c8a3094daacc5ce85e90e64cbc41decf3c670d1345695a2280b3550cd5edf1f5",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I043",
+      "name": "金针菇",
+      "file": "/food/I043.svg",
+      "sha256": "6dc58b129f521954f5ecb2f27e9a50ae7fe12abc8af4d78d66558442ba5879ca",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I044",
+      "name": "平菇",
+      "file": "/food/I044.svg",
+      "sha256": "2e7e0b4bb00eade21d0d24241bf0731e613514464c2c370377bfe4634e5d7a61",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I045",
+      "name": "木耳",
+      "file": "/food/I045.svg",
+      "sha256": "1d0cf11b26549b4d2ac752ee79608c2e4d2e9457c4478ac0afbc9fc1f78bc24a",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I046",
+      "name": "银耳",
+      "file": "/food/I046.svg",
+      "sha256": "fabeeec68deef508c324b87c54986705cad6a433e0ce85c69b984dcbdb3cea36",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I047",
+      "name": "豌豆",
+      "file": "/food/I047.svg",
+      "sha256": "4f850b7f59b015ab0263e11e4e55959774746ae1447fd23cf729a8d281f16031",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I048",
+      "name": "荷兰豆",
+      "file": "/food/I048.svg",
+      "sha256": "64b9e697d154ebc3e7dd7a96906525577065ce22b61107a8c07e20ab070bd7f8",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I049",
+      "name": "毛豆",
+      "file": "/food/I049.svg",
+      "sha256": "30f8dfe0b0bbc2d44390406c2e35bd102f679490eee2456dd8c943be7a47991a",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I050",
+      "name": "豆芽",
+      "file": "/food/I050.svg",
+      "sha256": "859c190d4a3941d8169f8a4f32ad9662bee58bf1f0e2270e24c2ebc77412b7e7",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I051",
+      "name": "苹果",
+      "file": "/food/I051.svg",
+      "sha256": "f8c794d83dd2d6e8ca0ea891d3eb13a5162bf402967680a9ef6f279d285d1292",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I052",
+      "name": "香蕉",
+      "file": "/food/I052.svg",
+      "sha256": "32ce3bcaf6d71006db298546bec2f43c926b72a04e16d034976e409e00c6b95e",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I053",
+      "name": "橙子",
+      "file": "/food/I053.svg",
+      "sha256": "759b5d196a294144830b17a377da695f28e65594b5f5c9fb9e8cade74552b144",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I054",
+      "name": "草莓",
+      "file": "/food/I054.svg",
+      "sha256": "a10c66bd9bdae8c5239eaf04696e67dcc2abb4ec9169c331faf7b4a900dde3d0",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I055",
+      "name": "蓝莓",
+      "file": "/food/I055.svg",
+      "sha256": "5a0581549d9abb56003532e1c6ad3a495e4ec066f7904757af465b6d9f117ad3",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I056",
+      "name": "葡萄",
+      "file": "/food/I056.svg",
+      "sha256": "64089a25537b6535d8599ccdd99ce5f0491673d45c6e83b61cd76284c220de95",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I057",
+      "name": "西瓜",
+      "file": "/food/I057.svg",
+      "sha256": "f58e0fabfb2eabec5ab593afce57561fb172b8f6f6f7273f9d5687e85408c1d7",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I058",
+      "name": "牛油果",
+      "file": "/food/I058.svg",
+      "sha256": "e26ab543300ffe8ad692d403c6234b7b805a42722ce04d5b10ac24c03c5417e0",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I059",
+      "name": "菠萝",
+      "file": "/food/I059.svg",
+      "sha256": "4dbae46dc9d6ba8317fe0ad6dc0b3ea439880638cf8c2a973a0cc4799e7cf03a",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I060",
+      "name": "梨",
+      "file": "/food/I060.svg",
+      "sha256": "6ea14ad0c05dcca6edc3a521f02cfcdb216e9955405b804a0ff3103cc50dfb4c",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I061",
+      "name": "鸡蛋",
+      "file": "/food/I061.svg",
+      "sha256": "58f5888a64045c9eeba1839cd69437cb6802fdcd6abef3d355006e5260cc18b7",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I062",
+      "name": "鸭蛋",
+      "file": "/food/I062.svg",
+      "sha256": "29b761a0804f3fcf11a4d6f907d214871403f0430131b0f6b849d1ccb5b5f7e2",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I063",
+      "name": "鹌鹑蛋",
+      "file": "/food/I063.svg",
+      "sha256": "2571508acfbbc6398eb505a8f8eb58e04a43226d1603cd90b786d687651a4d52",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I064",
+      "name": "鸡胸肉",
+      "file": "/food/I064.svg",
+      "sha256": "253adf1b77bb7178203021f1ae831ab2219e104e7116ce50b39f7ad36112b636",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I065",
+      "name": "鸡腿",
+      "file": "/food/I065.svg",
+      "sha256": "43614e00467fab4c369172901f8ac75714b75c155c4058367f3ef09005fdcd21",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I066",
+      "name": "鸡翅",
+      "file": "/food/I066.svg",
+      "sha256": "5552873783bf5a47c9c55b11100ad340a9df43a7adff4c5c0067b737345db554",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I067",
+      "name": "猪里脊",
+      "file": "/food/I067.svg",
+      "sha256": "70425240db044502d3c8b90abfa6510b8b89547a543794129a81e4c65ce76113",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I068",
+      "name": "五花肉",
+      "file": "/food/I068.svg",
+      "sha256": "511c1fe6238bc4e2af07dcdb41ff222972696d271c90620c0bc528638adf9565",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I069",
+      "name": "排骨",
+      "file": "/food/I069.svg",
+      "sha256": "924c2ab3eb97e01b41a6ad78df32a2e7f189ff2e2c0e73871ae0e6805d4aa3ff",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I070",
+      "name": "牛肉",
+      "file": "/food/I070.svg",
+      "sha256": "734df53e677a9b14766d4421554178b180cf7af795df7d357eada0bc7301d42b",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I071",
+      "name": "羊肉",
+      "file": "/food/I071.svg",
+      "sha256": "4c85d78d5640e5702b7386d068b2101a3294e16f3a2696b7cbc71a5682f50a13",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I072",
+      "name": "三文鱼",
+      "file": "/food/I072.svg",
+      "sha256": "356f91e6aa5b42da57bb744821130735f20d64b1e9ad2dd78f73cf0b901cd9ff",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I073",
+      "name": "鲈鱼",
+      "file": "/food/I073.svg",
+      "sha256": "cadb1c0ffe46822e175abfcf7b69430dac83a253b1520b1238aa764fe313dfcc",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I074",
+      "name": "扇贝",
+      "file": "/food/I074.svg",
+      "sha256": "c8db785d7d7db1d2c9e621a0d5c018df864c353817160da963947c78ca75b3d0",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I075",
+      "name": "鱿鱼",
+      "file": "/food/I075.svg",
+      "sha256": "6de084a110809854ef7c55e95047e385f7542681f9ee3ac4faedacf14b7c5da0",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I076",
+      "name": "大米",
+      "file": "/food/I076.svg",
+      "sha256": "cb01b27dbe997f26e36451b326b097b891a41da54af04047dae2e93e68134974",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I077",
+      "name": "糯米",
+      "file": "/food/I077.svg",
+      "sha256": "cd975acea84c613866452aaa8adb7fae367d1910b1c7f2b31d23d0cd04ef3837",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I078",
+      "name": "小米",
+      "file": "/food/I078.svg",
+      "sha256": "fa86bb2f216102ba932bdaf61b26ea73ecccbd0e3f9462c49ec21cdeed77b574",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I079",
+      "name": "燕麦",
+      "file": "/food/I079.svg",
+      "sha256": "460a21cb1f3e61fdb0fdd81101c7acf7182c79359f9ef49174ef4df1486ebdd1",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I080",
+      "name": "面条",
+      "file": "/food/I080.svg",
+      "sha256": "69511b76ca639fffaeada2de5f17aa3c922b89ba85ba327f95aad2dfe7bcb255",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I081",
+      "name": "意大利面",
+      "file": "/food/I081.svg",
+      "sha256": "fa0c64ce56387a1ffaa681a9076b951b4af608c8b574715341c11775fa32ddc1",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I082",
+      "name": "面粉",
+      "file": "/food/I082.svg",
+      "sha256": "ed36c7d231c920492498d1cc7a10c118d4d026aa7c4eeca1cc457974cc20c340",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I083",
+      "name": "吐司",
+      "file": "/food/I083.svg",
+      "sha256": "994a84e684af6d3ae9b5a112c76cf01951eecb8d84ba9a65d3cb0f7ebb7b5217",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I084",
+      "name": "馒头",
+      "file": "/food/I084.svg",
+      "sha256": "c4dc3ef06afdfb7a0120841a07c656bad4b6b311efc3927d78a7ae7ddfb03c84",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I085",
+      "name": "豆腐",
+      "file": "/food/I085.svg",
+      "sha256": "d0cd15e5a72e0405b8649e53d5351d8704a96a9009c0ee0f4e7d58e47ec4fe78",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I086",
+      "name": "牛奶",
+      "file": "/food/I086.svg",
+      "sha256": "5da3a3f5ed6f6fdb81dcda623bf3685c998fc8f68cdbe6a76795fa0855a2bd95",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I087",
+      "name": "黄油",
+      "file": "/food/I087.svg",
+      "sha256": "a3a5185eff782da48fdf930b8a601045ae9b3a0f32165e258544053000a8e42b",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I088",
+      "name": "奶酪",
+      "file": "/food/I088.svg",
+      "sha256": "e043a64219c80803c4fe9f065e63baec01b4f9aa560b688b781aee664d1f9a2a",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I089",
+      "name": "盐",
+      "file": "/food/I089.svg",
+      "sha256": "ffbba40595fe412d83b149fa97c9f71ea54cd01cc4524c53ffe90ec6712de023",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I090",
+      "name": "白糖",
+      "file": "/food/I090.svg",
+      "sha256": "18c249e92792803d803b163ba78b72be04a2a530c36960d99779f71689fb374c",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I091",
+      "name": "红糖",
+      "file": "/food/I091.svg",
+      "sha256": "d775ccdc02d4f4c3699fa8b561588d31163e3a340cf8ce11fe8803570da9e9e5",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I092",
+      "name": "酱油",
+      "file": "/food/I092.svg",
+      "sha256": "1d0e82267619741a5ff729d2bb2f858262129665a5a6cc96431a5a91aa8b764d",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I093",
+      "name": "米醋",
+      "file": "/food/I093.svg",
+      "sha256": "6032adb5da8ba81472c6c5bad37d85f528731659bac70600829e07df4bfb005f",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I094",
+      "name": "食用油",
+      "file": "/food/I094.svg",
+      "sha256": "14ae6d75f460471d0a3dccfb02679f8f7bad266df9be37475744ce1634d5e226",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I095",
+      "name": "芝麻香油",
+      "file": "/food/I095.svg",
+      "sha256": "4e292939d5907c40d74b4c67ab60d0afecd275ce118a7c1dcc4ae81d38e57d82",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I096",
+      "name": "料酒",
+      "file": "/food/I096.svg",
+      "sha256": "425e2dcff7c0ef38b650e98b65c6e2f11f9af6c75949015fd1b3bdb3f9636be1",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I097",
+      "name": "豆瓣酱",
+      "file": "/food/I097.svg",
+      "sha256": "397de292af2a069ec82992bccead63c1f6e6e0af5f4474e7735575ed78e14754",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I098",
+      "name": "黑胡椒",
+      "file": "/food/I098.svg",
+      "sha256": "5735a1bee8af93413e3862a6bced499b70c9ef0df5fce74963608aec1d79d833",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I099",
+      "name": "八角",
+      "file": "/food/I099.svg",
+      "sha256": "3b44ecda5621a69a3a97bc475508a1adda5dcea08b05a3c90f89593bc156cd1a",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "I100",
+      "name": "桂皮",
+      "file": "/food/I100.svg",
+      "sha256": "7a79ca91c258e7c905b4185b9b9e94df212c617b4a690a26953e8f2b7a03bcfb",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D001",
+      "name": "麻婆豆腐",
+      "file": "/food/D001.svg",
+      "sha256": "9097acd99851926339ba3f87d416407837766ffafa5a1e97b98a4ccba73811ca",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D002",
+      "name": "水饺",
+      "file": "/food/D002.svg",
+      "sha256": "48dd92d9f05731f78ffbae74f348d86f9ae222874c0bc28e8101dc1fef7d38c6",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D003",
+      "name": "扬州炒饭",
+      "file": "/food/D003.svg",
+      "sha256": "82da8463cb04374de325cbd1a9311ed2420435deff12466a40d07563839a4fbd",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D004",
+      "name": "清蒸鲈鱼",
+      "file": "/food/D004.svg",
+      "sha256": "90ee621e147f4f8ce098e763e1ff7727c23ec03d2ef69afd891f59946c9c1a1e",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D005",
+      "name": "酥炸虾",
+      "file": "/food/D005.svg",
+      "sha256": "f9e90c97429c64c4d9060d26761b5fa5d45934588d7870653fab0f6678e8c66a",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D006",
+      "name": "糖醋里脊",
+      "file": "/food/D006.svg",
+      "sha256": "6dff783e05ddafb3f5dcb146b4d8330d599df5a09c033417194c5ede2ebb69ad",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D007",
+      "name": "可乐鸡翅",
+      "file": "/food/D007.svg",
+      "sha256": "eab23eb74b63f45c823e501ef5a159491ad99e93315ab175272b5e0c4b1837ce",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D008",
+      "name": "黄焖鸡",
+      "file": "/food/D008.svg",
+      "sha256": "e23ce2c209cbfcf86880b0f810151cf210aed6254dbf1811f7e21ac3c3401a5e",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D009",
+      "name": "回锅肉",
+      "file": "/food/D009.svg",
+      "sha256": "d256297f2ca5d08e831f46830f78a467f7a7eb3e428c537eb0cdff463fbdce63",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D010",
+      "name": "木须肉",
+      "file": "/food/D010.svg",
+      "sha256": "09f3b23dd7d0e3498ec4de88732cba2182000e546e2e69d6e5f59d2f3d81971a",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D011",
+      "name": "青椒肉丝",
+      "file": "/food/D011.svg",
+      "sha256": "dedc7c45edf53d7af51cd6a7225eece25ab196087d91de4af7ca338316b4804c",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D012",
+      "name": "京酱肉丝",
+      "file": "/food/D012.svg",
+      "sha256": "9e45022c3dc4f186f9a36179cd66489b61a4b5e8c59662c9c37f545701432ec7",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D013",
+      "name": "水煮牛肉",
+      "file": "/food/D013.svg",
+      "sha256": "d1174ef6ceaf5aacc47d661cb1580fcba6178a7895eeadf9538243cf56af36b7",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D014",
+      "name": "土豆炖牛肉",
+      "file": "/food/D014.svg",
+      "sha256": "5fc08d02cd1a5acc3fc6f341e87c26c6cd26d922c71c4927ecc43dac189c83bc",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D015",
+      "name": "清炒虾仁",
+      "file": "/food/D015.svg",
+      "sha256": "f8d55e16e539599c248d35338f3b8cb830abcb086ac88a446f208301a3145b13",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D016",
+      "name": "蒜蓉粉丝扇贝",
+      "file": "/food/D016.svg",
+      "sha256": "db4f2fe452aeccc935fd49bb007f2a562561b255a35d339d3fdd0997faac69f0",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D017",
+      "name": "白灼菜心",
+      "file": "/food/D017.svg",
+      "sha256": "3ac87e5a53f3578d662bee1130b50beb8d58520d745af93d2d36f081bdbf8297",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D018",
+      "name": "蚝油生菜",
+      "file": "/food/D018.svg",
+      "sha256": "698c1b6ce348044bb5fc2f43ada23bbd9a28465d78282aa87a1cfae8a55fa6f2",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D019",
+      "name": "醋溜白菜",
+      "file": "/food/D019.svg",
+      "sha256": "67eb436805c0b7a1d6e8d282ebd83ba133ac713efc6476900c4ccdb6dcf544c6",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D020",
+      "name": "手撕包菜",
+      "file": "/food/D020.svg",
+      "sha256": "c34fd576d94408d3243baca85cdba3803135f28dbebe6dcc9ec485382dcd8cd6",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D021",
+      "name": "香煎三文鱼",
+      "file": "/food/D021.svg",
+      "sha256": "15422ee8095774bccdf056120f5f65f4493616ef8ea2f44a5e9fab5a5df5e972",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D022",
+      "name": "葱烧带鱼",
+      "file": "/food/D022.svg",
+      "sha256": "2c96be8f52ab0010003ccc1ded73d734cc71f50a6c0c02336623f8fc01440659",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D023",
+      "name": "清蒸排骨",
+      "file": "/food/D023.svg",
+      "sha256": "3e24ea96be981540025e49174e555964ba4fc13947478937b45d752d6a058f1e",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D024",
+      "name": "排骨莲藕汤",
+      "file": "/food/D024.svg",
+      "sha256": "1ccabf16425dfebc9199d67897d7e66763f34d25ca76d5b3c84691bf09527a42",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D025",
+      "name": "冬瓜肉丸汤",
+      "file": "/food/D025.svg",
+      "sha256": "0029ae3e3d46a2e417091fcd3d69646b3884d0305027a513d4b4bdc978865318",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D026",
+      "name": "紫菜蛋花汤",
+      "file": "/food/D026.svg",
+      "sha256": "0b331fd0dacc022e950a362308ddd4554f0374c6e9a256aa666ad40ea8576979",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D027",
+      "name": "酸辣汤",
+      "file": "/food/D027.svg",
+      "sha256": "2a48964439f0c607caf857fe9e6448466ef8cfc53f210f6a9a197229bda0d5c6",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D028",
+      "name": "番茄牛腩汤",
+      "file": "/food/D028.svg",
+      "sha256": "f58ba008b55bc1c9a050ad5a0d043b5e5eaaa34582bd80742a1d217c8d15b155",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D029",
+      "name": "菌菇汤",
+      "file": "/food/D029.svg",
+      "sha256": "fdf8ff0e1847db8cc52fdff5472ec9250c7a689b53d58d9ef6b732d728f8c724",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D030",
+      "name": "玉米浓汤",
+      "file": "/food/D030.svg",
+      "sha256": "bc2fd399daaab6a16a46067b21794e2b9bdf539869f86bb708416d2d51fc6f86",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D031",
+      "name": "牛肉面",
+      "file": "/food/D031.svg",
+      "sha256": "e7e07670e51acfa192d7914c4eceb555196a9d16114588eec01df36bcacbc646",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D032",
+      "name": "鸡丝凉面",
+      "file": "/food/D032.svg",
+      "sha256": "3fdc334de9bfb3689f01e973f31c61bea134c83fa9563df3e88bb18a1620b198",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D033",
+      "name": "担担面",
+      "file": "/food/D033.svg",
+      "sha256": "46e37754217410533da1876c7d142f8e0d08ddf61ff7078f8c7d7514040ecb1f",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D034",
+      "name": "葱油拌面",
+      "file": "/food/D034.svg",
+      "sha256": "d91ffadb5d22c2a1f9b9f396bf551120c84057da357eb3255aec9368bdb1834d",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D035",
+      "name": "炸酱面",
+      "file": "/food/D035.svg",
+      "sha256": "ba5e993efb80f0b98a00720106d2ccdf77c4857ad513d998cfc29dc5c1a2d948",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D036",
+      "name": "番茄意面",
+      "file": "/food/D036.svg",
+      "sha256": "5ad1fb16674f4267a1f5bffc8cedc552f2bb18cc7b95ac11764cd72c132a8cde",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D037",
+      "name": "海鲜意面",
+      "file": "/food/D037.svg",
+      "sha256": "845f9bf7f595bd7ebee072bfe5b775d7753b619e13a756c91a8c9eb690fe2d68",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D038",
+      "name": "咖喱鸡饭",
+      "file": "/food/D038.svg",
+      "sha256": "a383885b46c63d67ae4c8a6ca50d289a03e32714bbf9b2bcf772c4911861cf30",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D039",
+      "name": "照烧鸡腿饭",
+      "file": "/food/D039.svg",
+      "sha256": "46823004c9bca6de9241f9c68990ce8b8340f1308a1d21a49ffa1ac9de3d2a73",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D040",
+      "name": "牛肉盖饭",
+      "file": "/food/D040.svg",
+      "sha256": "fb909a183901127e695a2e7007335744df8d3eb42348178174a045b9a81c7134",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D041",
+      "name": "煎蛋吐司",
+      "file": "/food/D041.svg",
+      "sha256": "01c5a52accad71f17ec6828edd0c3d04226abc59a215c311015c8fe6c4d8bc69",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D042",
+      "name": "鲜肉包子",
+      "file": "/food/D042.svg",
+      "sha256": "049ecab4377385ad3cb5677172e08df6a2bc1ade88425cda9fbde9971cce1573",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D043",
+      "name": "葱油饼",
+      "file": "/food/D043.svg",
+      "sha256": "603ee0d6050fbe310173c523932fb40cb844e448a2ae739cb6162327ba16f4e7",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D044",
+      "name": "春卷",
+      "file": "/food/D044.svg",
+      "sha256": "04e534c79cf6da5d9e299a126dd21c53ec96445635e6267b585e856aaa926911",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D045",
+      "name": "小笼包",
+      "file": "/food/D045.svg",
+      "sha256": "39798ea9b6637e62f5f0c188521c861275e06c9950b167d510b6797fc82975b9",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D046",
+      "name": "烧卖",
+      "file": "/food/D046.svg",
+      "sha256": "772c4e0850d40f2476b3d2b78e3098ab9ae80e7e1717fd07ef7051c52fc4c7e1",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D047",
+      "name": "寿司拼盘",
+      "file": "/food/D047.svg",
+      "sha256": "5d4389fe50c8a051c3d8eb5647b44c01512714e6bd0349c451d2579ca15ae880",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D048",
+      "name": "蔬菜沙拉",
+      "file": "/food/D048.svg",
+      "sha256": "2f35b4a480540b874d93ec5680be5fbdb8faf62f531ed2ae675410254087fad4",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D049",
+      "name": "煎牛排",
+      "file": "/food/D049.svg",
+      "sha256": "db62de00768a74d19014243eb7e46f2bcde249b3d5f0c77eef4b2960b25148c6",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D050",
+      "name": "烤鸡腿",
+      "file": "/food/D050.svg",
+      "sha256": "27413fbcd425f8cd309722d15f09630af32a42928f21f1110aa1732d80a2fba4",
+      "sourceSet": "baseline"
+    },
+    {
+      "id": "D051",
+      "name": "鱼香肉丝",
+      "file": "/food/D051.svg",
+      "sha256": "d692fcf09df1f42a02f264aa7bf0a82aeb6e045b1e9f2348184bb5cba5c3ae43",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D052",
+      "name": "蒜香烤茄子",
+      "file": "/food/D052.svg",
+      "sha256": "d813d9cdb43523645cab4db985bf4ae37f2180a28742a623c25683278d402296",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D053",
+      "name": "梅菜扣肉",
+      "file": "/food/D053.svg",
+      "sha256": "aca58d07517610336d39e4b79655b0eec2ab389293b8f1b8e83af43c5bcc43ae",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D054",
+      "name": "粉蒸肉",
+      "file": "/food/D054.svg",
+      "sha256": "befe5eb375bf6ccba49829d9174cff878934934704a70f92034db23e482c545b",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D055",
+      "name": "蒜泥白肉",
+      "file": "/food/D055.svg",
+      "sha256": "b2009d19f769813fb55c063fabff136f72cdf622759ba5525b01ecfc0f3cbdfa",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D056",
+      "name": "糖醋排骨",
+      "file": "/food/D056.svg",
+      "sha256": "40468330d917914d82906bd53fefcb01ece09175914a13766977da4b4fdbd871",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D057",
+      "name": "红烧狮子头",
+      "file": "/food/D057.svg",
+      "sha256": "8e29bfd8fe5104191d06450cd9bb022856a85a62b3b5a479f5c76ab79a82e1ba",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D058",
+      "name": "珍珠丸子",
+      "file": "/food/D058.svg",
+      "sha256": "d5c2100b86af9267f07af894957fb5e5bc19ae5ab5590c71b3a41f3cc7d4b5de",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D059",
+      "name": "炸藕夹",
+      "file": "/food/D059.svg",
+      "sha256": "83a01dc2233ee6cae25486421ac2a1937c4906dcdb8aca28f72bb450c9a6db6e",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D060",
+      "name": "青椒酿肉",
+      "file": "/food/D060.svg",
+      "sha256": "0bbf0bbec6db06b6c20b0ff494f397a80f6ba6ee2b62d701e978e6ff1424b8e3",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D061",
+      "name": "蚂蚁上树",
+      "file": "/food/D061.svg",
+      "sha256": "938c2aeba1326721c2c83f3ec7f6542065d44da04b3e9fe9a26765da23ada3bb",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D062",
+      "name": "客家酿豆腐",
+      "file": "/food/D062.svg",
+      "sha256": "6c05832b960525721bf09d45d3a1858e4c0620659c3400da56b2add693d7f0b2",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D063",
+      "name": "鸡蛋灌饼",
+      "file": "/food/D063.svg",
+      "sha256": "5aec70a6cbd4095211bf2c2981f6e5246996d8b26313bd15bdb82d4468d14062",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D064",
+      "name": "辣子鸡",
+      "file": "/food/D064.svg",
+      "sha256": "7efc9cb27f485d3315a6afcd1d19846477e1e71d8cbf753142abc906230cd32d",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D065",
+      "name": "白切鸡",
+      "file": "/food/D065.svg",
+      "sha256": "dd554c3e758fa52d46dc43c4abf498df13eae3f5bc6429c7dc2a56f738044d85",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D066",
+      "name": "三杯鸡",
+      "file": "/food/D066.svg",
+      "sha256": "cbcb4bca0753e84e1081c6c3be48691cc1e3633b9e62fa08cade6eca49599cc3",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D067",
+      "name": "大盘鸡",
+      "file": "/food/D067.svg",
+      "sha256": "e49271d4093e10c33c78cd9efb87c2d6b36d9458ee3b4b3bd7c71ae9b797c53b",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D068",
+      "name": "香菇蒸鸡",
+      "file": "/food/D068.svg",
+      "sha256": "ed3bb13fd76eb9d4c9027ae99ef416e8ab0687fe34a7c40f2c29fe28273ea7bd",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D069",
+      "name": "啤酒鸭",
+      "file": "/food/D069.svg",
+      "sha256": "ac87ecf1c0cae18435fef4a450da098336441552950162651fa8b0f848294e2e",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D070",
+      "name": "盐水鸭",
+      "file": "/food/D070.svg",
+      "sha256": "a97cbc7dbf4622510fe8cdd6fb4e7b6a8b7fcf7964ee708a5baf5ab3433510da",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D071",
+      "name": "孜然羊肉",
+      "file": "/food/D071.svg",
+      "sha256": "8ef258fe30077908a4c727ef23afe28f658573af4ba36b67de3b120084257ec7",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D072",
+      "name": "杭椒牛柳",
+      "file": "/food/D072.svg",
+      "sha256": "69fd478819814fafa16606343b609fcc1b16707a8563497988551be2bb1dba15",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D073",
+      "name": "萝卜炖羊肉",
+      "file": "/food/D073.svg",
+      "sha256": "b8af375c4fa41f9dfdef9d88ca8064651b59e617844ba982f1191cd16ee3bb32",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D074",
+      "name": "酱牛肉",
+      "file": "/food/D074.svg",
+      "sha256": "679837f7a0979ab6c8887aebca472250d27b114c3ec20bcd1ac1fc4f480fc50c",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D075",
+      "name": "干煎黄鱼",
+      "file": "/food/D075.svg",
+      "sha256": "0ccdea7dcf891119b22396b1aa01311e500e33f60cdc1f41a69d808fbe10383a",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D076",
+      "name": "糖醋鲤鱼",
+      "file": "/food/D076.svg",
+      "sha256": "236564adf12ec80458d77f5a3f3918b236e68dad946b937c5cd77963b4b3ecff",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D077",
+      "name": "酸菜鱼",
+      "file": "/food/D077.svg",
+      "sha256": "80d9fd53e741c697308f4a1c1976b068ff1b719c780e790d82f31fcbf0836f8e",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D078",
+      "name": "水煮鱼",
+      "file": "/food/D078.svg",
+      "sha256": "3774e95c192b2bbc687394c64b5d142b91a32834566dd8d8882571c408d529b4",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D079",
+      "name": "剁椒鱼头",
+      "file": "/food/D079.svg",
+      "sha256": "b71542df079af4d350090d7817f9cf23f52e9864a88f56cbf62bfa108c422ae0",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D080",
+      "name": "松鼠桂鱼",
+      "file": "/food/D080.svg",
+      "sha256": "551b8c53fe8887308898f14a6260bffa641279246d49db093fd717dd0883403f",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D081",
+      "name": "鲫鱼豆腐汤",
+      "file": "/food/D081.svg",
+      "sha256": "a3dea5c397cc71bb60a6c67dcfb1f3b3f3b242c70a6a4e6b381e19e65922845a",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D082",
+      "name": "油焖大虾",
+      "file": "/food/D082.svg",
+      "sha256": "4e021caa7d5d3c81bac365fb936076b9e73530d91618e0be85538b67f1c07f39",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D083",
+      "name": "白灼虾",
+      "file": "/food/D083.svg",
+      "sha256": "c1acbaf654c41ba68d3c1401b29ba64946cf24cd6c08cbb4995d243a75a8f1bd",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D084",
+      "name": "滑蛋虾仁",
+      "file": "/food/D084.svg",
+      "sha256": "d2a0bd30a27290e280fe34158932d78841b586ae43aefb3ba6e807d81096592c",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D085",
+      "name": "蒜蓉粉丝蒸虾",
+      "file": "/food/D085.svg",
+      "sha256": "b80adafdcd39d6167fb72b19ba5495588efed995a5b2ac98b55e1e8b777fffe8",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D086",
+      "name": "辣炒花蛤",
+      "file": "/food/D086.svg",
+      "sha256": "acc2e1103fcbbcd8b9a0453a9d4a6e6375bb9bf76a87a522b86a2494b54c2526",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D087",
+      "name": "葱姜炒蟹",
+      "file": "/food/D087.svg",
+      "sha256": "4f961ece6a332b4631f4c3170c7173b4bf6b1018a8bce24867a1b22bff667153",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D088",
+      "name": "清蒸大闸蟹",
+      "file": "/food/D088.svg",
+      "sha256": "b67aac878c03a003fd58909adb572388e205c199cf52d9b4930d92c7c86253ab",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D089",
+      "name": "韭菜炒鱿鱼",
+      "file": "/food/D089.svg",
+      "sha256": "bffe4a7674d89a737a46fae35cfbcd2498b99d843ed826ca5d19385073efa2d0",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D090",
+      "name": "家常豆腐",
+      "file": "/food/D090.svg",
+      "sha256": "b98e54bafbe2a8e0553848bed93fe048f6be89c246954d23794599969cb5c327",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D091",
+      "name": "皮蛋豆腐",
+      "file": "/food/D091.svg",
+      "sha256": "c453a7cd3a5084565439150b1a50f7f1e38cc6e5fd801d08e56b94287c4654d2",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D092",
+      "name": "蒸水蛋",
+      "file": "/food/D092.svg",
+      "sha256": "33c2829cb17bef4a2759d226b8da0c2cf399ee89cd4d01d1a2becb457f658799",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D093",
+      "name": "韭菜炒鸡蛋",
+      "file": "/food/D093.svg",
+      "sha256": "eed1341679f230bb4e6fb4e8f02f715d615bab1d0219163c2ad39080fa64ff33",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D094",
+      "name": "酸辣土豆丝",
+      "file": "/food/D094.svg",
+      "sha256": "ba317506bfc22ea0948485f33a2f3ff7e959be0e14ae17dbdc35e55929d4cce9",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D095",
+      "name": "地三鲜",
+      "file": "/food/D095.svg",
+      "sha256": "580e3267808613a919ec89dceb9fda31690cda8c33c8b263c25eb3bd6ee76498",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D096",
+      "name": "烤冷面",
+      "file": "/food/D096.svg",
+      "sha256": "49cf33d5a78e8863fce3dfbe98af28c42614515d55895f30fd03efc732ee19ae",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D097",
+      "name": "干煸四季豆",
+      "file": "/food/D097.svg",
+      "sha256": "7a9daa8ec9fa1e306e67e6b43c3ef9620872a99427bdd34fd27ca70d6ddf6161",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D098",
+      "name": "蒜蓉西兰花",
+      "file": "/food/D098.svg",
+      "sha256": "b8800aaae4f4c45d54561ef1272ee4c4ddb613e7e4ddb1e095c8a02868f02e15",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D099",
+      "name": "香菇油菜",
+      "file": "/food/D099.svg",
+      "sha256": "24e7a2345d51bd5a80736fe98c32106bd34183f768c5b0c1573299dd73ecf8db",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D100",
+      "name": "虎皮青椒",
+      "file": "/food/D100.svg",
+      "sha256": "cc3c3a182b384e81350f5971e016938eabd86446c2b60135d3d56b1f2065102a",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D101",
+      "name": "拍黄瓜",
+      "file": "/food/D101.svg",
+      "sha256": "f4bee0409e37ef9d2be3bec9229058ea9ee723d263ed5aecd4d7920bb34ce9fc",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D102",
+      "name": "凉拌木耳",
+      "file": "/food/D102.svg",
+      "sha256": "2409b12a18dc23de1d3cda6315757d751fae56e7ed6ff2104018333e4a03e71f",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D103",
+      "name": "拔丝地瓜",
+      "file": "/food/D103.svg",
+      "sha256": "8a2b2c2db92700c0432b82d73d7a6a9df7f1da676a90576759ca39bd59eebec9",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D104",
+      "name": "松仁玉米",
+      "file": "/food/D104.svg",
+      "sha256": "04bf8ad68b15283a4165e0387d034be151b851bd9cd020982919f92e31a53127",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D105",
+      "name": "荷塘小炒",
+      "file": "/food/D105.svg",
+      "sha256": "0237f4c1289b3699fd1dec840aced3bbfd732eca0e435ccb59d408fea85f8740",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D106",
+      "name": "腊味煲仔饭",
+      "file": "/food/D106.svg",
+      "sha256": "d4f0ece03baa8c55403885e38e7cb4520989519ecf97d19815f0fbfcc39b2fc8",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D107",
+      "name": "卤肉饭",
+      "file": "/food/D107.svg",
+      "sha256": "98ada540fd7934eac90e5c7ad24f29fd33abe11689ee28d513d9c6b203e59dc8",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D108",
+      "name": "手抓饭",
+      "file": "/food/D108.svg",
+      "sha256": "5c972525c803ae888970546ba08e7151587d18157a414cfbc0c6b1984e100351",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D109",
+      "name": "油泼面",
+      "file": "/food/D109.svg",
+      "sha256": "383da3f8ca13df25c3ab11028d59d0dcc9bd88c8d445461a8c0917708cb9bfd9",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D110",
+      "name": "热干面",
+      "file": "/food/D110.svg",
+      "sha256": "9e0c31c36e5c531e31a2a057800f701b485cdf27ef4add636720ca17ab522084",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D111",
+      "name": "酸辣粉",
+      "file": "/food/D111.svg",
+      "sha256": "0950f8f66d73743657462433ee589daf059616f84ec8fcd32ba69ae3955104b1",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D112",
+      "name": "过桥米线",
+      "file": "/food/D112.svg",
+      "sha256": "066508296cb97702eb8c13f3d7546cd1a44222982512531207dc5dac010c416d",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D113",
+      "name": "干炒牛河",
+      "file": "/food/D113.svg",
+      "sha256": "81c6a78de028e67de212925caa346556cfca0b4472623a6ad5cbb20b436830cf",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D114",
+      "name": "鲜肉馄饨",
+      "file": "/food/D114.svg",
+      "sha256": "a854ef25e7bdcb90265d30789983cd2ea72cacf766476ed6831e1d0e85320459",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D115",
+      "name": "生煎包",
+      "file": "/food/D115.svg",
+      "sha256": "cf6605168e90e6e45f0eb8c3ef6908076be1bdf9b7a5454e6afa104d5436daf2",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D116",
+      "name": "韭菜盒子",
+      "file": "/food/D116.svg",
+      "sha256": "e59a96cb01f4183d1667da92a150f2faebf9a448dc7eb89932fdcc9afb9c0344",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D117",
+      "name": "肉夹馍",
+      "file": "/food/D117.svg",
+      "sha256": "61e901df7d7e878d39c662be44aae837163978c320af8e9a21addb6afa6d444c",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D118",
+      "name": "银耳莲子羹",
+      "file": "/food/D118.svg",
+      "sha256": "a10dcbb15349e8856b41ed8baf56af3785f067f86007f45ff691f6555741b563",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D119",
+      "name": "绿豆汤",
+      "file": "/food/D119.svg",
+      "sha256": "98e37632e4ecbf543ffa553cca41f83012625a8f3d5f81f392f7e1cbf17f5aa1",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D120",
+      "name": "酒酿小圆子",
+      "file": "/food/D120.svg",
+      "sha256": "451ab52eac5cb398b7cf335a92592e509110b41d6614a1e3cc2c33ce19428468",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D121",
+      "name": "皮蛋瘦肉粥",
+      "file": "/food/D121.svg",
+      "sha256": "85e62ad9cb650c58d8e964c30d5b154e72f4afb4492ff7f469f63fe26fb7bbd4",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D122",
+      "name": "小米南瓜粥",
+      "file": "/food/D122.svg",
+      "sha256": "e02c2f6eaa444cfb40d05ea4abe910dd587d1db2d9400f75327e00c6e5eac35f",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D123",
+      "name": "肉酱意大利面",
+      "file": "/food/D123.svg",
+      "sha256": "aac80f14ec6298f365a1d32732e1ba71d898185f344581e2a151a3aa8aca3c97",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D124",
+      "name": "奶油培根意面",
+      "file": "/food/D124.svg",
+      "sha256": "ed5c9954fd652db43e01616f19eabf71b1bae276d19c0f095aed5783d7f70532",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D125",
+      "name": "青酱意面",
+      "file": "/food/D125.svg",
+      "sha256": "d6f0ee42d07675785b145ebb36f57471bbd5c6e6305b81ae56169cbde7d1d09b",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D126",
+      "name": "千层面",
+      "file": "/food/D126.svg",
+      "sha256": "e48686d9a11cb5b8e9ca77d12df441677701cf3d220cd860fe247e419d257441",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D127",
+      "name": "焗通心粉",
+      "file": "/food/D127.svg",
+      "sha256": "47c3dff8b668f25edb7de2ecbfa0f28594ce1d3dbd7b012ddf866e208c479a33",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D128",
+      "name": "蘑菇烩饭",
+      "file": "/food/D128.svg",
+      "sha256": "8dd90a6f93c3940c743dc379cad86608271b3c72759080784e06cb06ab7a9bd3",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D129",
+      "name": "玛格丽特披萨",
+      "file": "/food/D129.svg",
+      "sha256": "b14fa3d21a5ff30224445f8f12489747348fdfe06940f72b9fe3897e08840bbd",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D130",
+      "name": "芝士牛肉汉堡",
+      "file": "/food/D130.svg",
+      "sha256": "bb5debf53af5be589cf390276a867753bede0da6c961adc2745731288c5a99dd",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D131",
+      "name": "炸鱼薯条",
+      "file": "/food/D131.svg",
+      "sha256": "f74b88bd13ceecd76d0276d638fdb2efd2b9286f8a45b824d35f1a3211939e7c",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D132",
+      "name": "烤猪肋排",
+      "file": "/food/D132.svg",
+      "sha256": "c08a3ab59810a341abb95cd7bd0e46f55687e3185bc57b28e160185b84beb8ed",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D133",
+      "name": "奶油蘑菇鸡",
+      "file": "/food/D133.svg",
+      "sha256": "55d82f247eeb75df338f213a3f6ab69665487b35879ba06edaccf1cde2ad4ccf",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D134",
+      "name": "金枪鱼三明治",
+      "file": "/food/D134.svg",
+      "sha256": "cae8cc8c7b1e720bc5ae15d3044283918742430f3815f4c6eb81340fcb2b675f",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D135",
+      "name": "班尼迪克蛋",
+      "file": "/food/D135.svg",
+      "sha256": "f2160ee1e3cf782b53319035afc7a4251396d651e76881595a2127705f180bda",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D136",
+      "name": "法式吐司",
+      "file": "/food/D136.svg",
+      "sha256": "229fe5e8dc9938764cf42a9e99ad55c139e5b849cc49f6641ddfd95b69fb0139",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D137",
+      "name": "美式松饼",
+      "file": "/food/D137.svg",
+      "sha256": "35632aef67c977b532023aac8b0beb57cdb1452ee0c94e0af0157cbff7424b03",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D138",
+      "name": "华夫饼",
+      "file": "/food/D138.svg",
+      "sha256": "c3426a1a6113b98ca3cb4133513d3a0d8916972ec33ead36e630da71286322c0",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D139",
+      "name": "烤千层土豆",
+      "file": "/food/D139.svg",
+      "sha256": "2b6516b561f1049af86dd9027a5df0ba9576d228619d867568ecb8066e44bbd2",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D140",
+      "name": "牧羊人派",
+      "file": "/food/D140.svg",
+      "sha256": "083e0b901f7f23874a4d68785f08b4fff1aa5f8def10170e3c139d568e7e722e",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D141",
+      "name": "南瓜浓汤",
+      "file": "/food/D141.svg",
+      "sha256": "7c3865eba9d965d1559c7ca9ce1e82a0de448b70539fd16e02c4069255d1d5cd",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D142",
+      "name": "蒜香面包",
+      "file": "/food/D142.svg",
+      "sha256": "a2d7f8a8668f903dbde846ebbad4f66b7a2e88c1fefbf57e03715a96bba87cc6",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D143",
+      "name": "苹果派",
+      "file": "/food/D143.svg",
+      "sha256": "243d66d22c4ad7c825ad21b4837ab5885881824a979b6dc61f7fcb119688ae00",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D144",
+      "name": "鲜肉粽",
+      "file": "/food/D144.svg",
+      "sha256": "e49f642015d34058f7713aaa59f59421d264c796f4e4d6961121dd12bb28df5b",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D145",
+      "name": "鲜虾肠粉",
+      "file": "/food/D145.svg",
+      "sha256": "ba5055ef750827dd4dc4e6804f860f5d7261c456682f652cc7b298438ae973b6",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D146",
+      "name": "蛋包饭",
+      "file": "/food/D146.svg",
+      "sha256": "23758904d791ca98a737a34535cc560cb01765c2ec4f4fe5c7f039185c920630",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D147",
+      "name": "锅巴肉片",
+      "file": "/food/D147.svg",
+      "sha256": "20e9b80cc73f3b16e44825dda938da2d6c95759bd3320071c2d4dd0449d20a62",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D148",
+      "name": "干锅肥肠",
+      "file": "/food/D148.svg",
+      "sha256": "2a0eba7b39d40975a203f3fd538de25c139fc503d9ad937725b5a71b539d352d",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D149",
+      "name": "凉拌海带丝",
+      "file": "/food/D149.svg",
+      "sha256": "f6771ed97a784e8d0802012c853db749fa40fd387b5d96ec1b7b17202352e5f0",
+      "sourceSet": "expansion-local-v2"
+    },
+    {
+      "id": "D150",
+      "name": "红糖糍粑",
+      "file": "/food/D150.svg",
+      "sha256": "b2afd984ace6910ee088ef502ade9265fbc7f8fa47fb0bd01e676f434f6d9313",
+      "sourceSet": "expansion-local-v2"
+    }
+  ]
+}
