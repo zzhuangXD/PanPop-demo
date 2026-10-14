@@ -3214,6 +3214,1062 @@
         "strokeRevision": "2026-10-14-r01",
         "figmaNativeReviewed": false
       }
+    },
+    {
+      "id": "D152",
+      "name": "九转大肠",
+      "file": "/food/D152.svg",
+      "sha256": "13b28b681917d302df80e723280cc395e6bd01f24ab676a92046aa095785458b",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D153",
+      "name": "葱烧海参",
+      "file": "/food/D153.svg",
+      "sha256": "69dfbdc8796fffd48c825b83d4116c4ab946055c6728e36a1a0b882383a4dca3",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D155",
+      "name": "糟溜鱼片",
+      "file": "/food/D155.svg",
+      "sha256": "3008c7ea45ba45fa044b2ac280de36ff72fad5d9fae120e618d054d104c67e84",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D159",
+      "name": "锅塌豆腐",
+      "file": "/food/D159.svg",
+      "sha256": "13f746d79591cfbc5dfa61e9b1e53f949d7683d5e00b28406a929a7923f1e8cf",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D164",
+      "name": "博山豆腐箱",
+      "file": "/food/D164.svg",
+      "sha256": "0faed670bc3a35fde032ec7288df77fc91b258507d9213217db31dc59ce2599d",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D218",
+      "name": "大煮干丝",
+      "file": "/food/D218.svg",
+      "sha256": "74c5e61d6541790b00557f6bd6b38820b45ffc70d3fae8d4a6e4e5367e6957c8",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D235",
+      "name": "苏式鲜肉月饼",
+      "file": "/food/D235.svg",
+      "sha256": "62770af05858430ab16bb9311c729af7b0380f87e96ad47831e60610622b4768",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D260",
+      "name": "龙井虾仁",
+      "file": "/food/D260.svg",
+      "sha256": "384a8d3bfef75f62431ae0fcf7e0e0eb70848d076e1f130c8534192d9c85bcaa",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D262",
+      "name": "干炸响铃",
+      "file": "/food/D262.svg",
+      "sha256": "e525025756610b366eaf3be8156d12bbe7ef0b2da8af4d3246f8e40e30219bba",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D265",
+      "name": "宁波汤圆",
+      "file": "/food/D265.svg",
+      "sha256": "d812e1ecb0189a7666e9922bb155cfe4188575fbaf1a086cc6eaa9b20628b3a6",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D202",
+      "name": "马蹄糕",
+      "file": "/food/D202.svg",
+      "sha256": "4f0c8a2e2dee6683d0bb03bd1df96a1249b568d87eebed451287ede69bda8a53",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D214",
+      "name": "双皮奶",
+      "file": "/food/D214.svg",
+      "sha256": "3152cd96ef38ba6cd00a20cbd29e51eb900df6c06aaf7daf3beaba9725dda57d",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D215",
+      "name": "姜撞奶",
+      "file": "/food/D215.svg",
+      "sha256": "70db6e8008122bb7fd784a75627785852b132bde041d1433fb53d15a821743c3",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D216",
+      "name": "伦教糕",
+      "file": "/food/D216.svg",
+      "sha256": "173ef0907fead6b3e3a1b1fa544d7dc19b5b54279226f53d15455bc5f72ed02c",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D217",
+      "name": "广式煎堆",
+      "file": "/food/D217.svg",
+      "sha256": "a1f51b37b76f038ab96a57184aecf0207a4278f7f47e0c106ee2ac7e152db65d",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D362",
+      "name": "意式炸饭团",
+      "file": "/food/D362.svg",
+      "sha256": "5ffa512ac8ad456028c08308f18735facb4526e96f20a9c8b27ae205bc9877de",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D368",
+      "name": "意式奶冻",
+      "file": "/food/D368.svg",
+      "sha256": "d76fe5b9f5e5e6249611f9845674f988b31ae5ec206f3ab3b55ab3164cdbb1d5",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D370",
+      "name": "佛卡夏",
+      "file": "/food/D370.svg",
+      "sha256": "698389f748a340df6946f65ef01c12014b7ce0e4011c3d93434b9de8e74a4820",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D375",
+      "name": "巧克力布朗尼",
+      "file": "/food/D375.svg",
+      "sha256": "40a4e84fb5f839f62f6724a59b37b4f2d2885a7f32bef8f7b58c24cd10c7995f",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "D384",
+      "name": "日式寿喜烧",
+      "file": "/food/D384.svg",
+      "sha256": "bc4dec39393bf7ee9b504fc097d104379765492f5b589e397286ca778669f444",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I201",
+      "name": "大葱",
+      "file": "/food/I201.svg",
+      "sha256": "2149ee54b2c81bbfd2e020c179c520a57faf4f91da27a694a0e2bb81db3b048a",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I202",
+      "name": "水发海参",
+      "file": "/food/I202.svg",
+      "sha256": "81dd2dadee776344adf416db0f127c48c92bf22c2d09a55bcf031817a57383d4",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I203",
+      "name": "白豆腐干",
+      "file": "/food/I203.svg",
+      "sha256": "ced9ddfd239a45f1d1fca75f6be6d0bcd6fa7d56375d943b0b487e0e3d026402",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I204",
+      "name": "低盐鸡高汤",
+      "file": "/food/I204.svg",
+      "sha256": "9a9eef89ea2984ba6aaf94bc968d0acecf204a70a693eacd76b1c259f070302f",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I205",
+      "name": "猪油",
+      "file": "/food/I205.svg",
+      "sha256": "cbceeb59d77997556b278e3b2f99b1f449696b22220ae7c82a74584348f89a77",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I206",
+      "name": "猪肉馅",
+      "file": "/food/I206.svg",
+      "sha256": "12d72ba7950c79abaff2e5af7dcff39981df457f71b5e85ac75cb7d42acaa9cb",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I207",
+      "name": "龙井茶叶",
+      "file": "/food/I207.svg",
+      "sha256": "8559573ca14d4ac46d004cffddf1ad91434b0136273b376563c21f89f629c73a",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I208",
+      "name": "薄豆油皮",
+      "file": "/food/I208.svg",
+      "sha256": "94f0d86194dafb93627bb6f7aa1ec3abd7d628012974480633e4a4f12ba8ceb2",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I209",
+      "name": "熟黑芝麻",
+      "file": "/food/I209.svg",
+      "sha256": "ca1bc03c8a1675ba15142070466f624154c3ecd0495ac39b9f4c04f7af0c6148",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I210",
+      "name": "马蹄粉",
+      "file": "/food/I210.svg",
+      "sha256": "4b900ee6ad3a0c3c0f6f572eb55a9cef21719fa7a13bee1b24c68a82aab1e8e8",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I211",
+      "name": "荸荠",
+      "file": "/food/I211.svg",
+      "sha256": "035b387c0de9e4a2b0c297e267bd7bb46f276949ce92a10b19a6c20db9cb8e08",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I212",
+      "name": "莲蓉馅",
+      "file": "/food/I212.svg",
+      "sha256": "819b1f13e95fc27158d5488eb5dea2e7283deeeaf483f63e5b2527a6898499e1",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I213",
+      "name": "阿波里奥米",
+      "file": "/food/I213.svg",
+      "sha256": "e46356d280a40701393d921c947e5d16ffc6d04744ef70782320180d74731800",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I214",
+      "name": "低水分马苏里拉",
+      "file": "/food/I214.svg",
+      "sha256": "f6a80ac5a2a6d3d26228ff1ddec378007db8231cdbad2534a0ffd14078235690",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I215",
+      "name": "日式面包糠",
+      "file": "/food/I215.svg",
+      "sha256": "aa8c348483379e5c76845e95f1835dc36bdbc67bbd70433b3e51aa67ebffc6fb",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I216",
+      "name": "吉利丁粉",
+      "file": "/food/I216.svg",
+      "sha256": "806d067bde21115089a7a9072939a5893830be021406df51ffcf1ccb31554854",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I217",
+      "name": "高筋面粉",
+      "file": "/food/I217.svg",
+      "sha256": "9335a26b26d392298859292e2d1a1898b8605a14351eb629e558eeeab3abdda9",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I218",
+      "name": "鲜迷迭香",
+      "file": "/food/I218.svg",
+      "sha256": "9e1ab5cfeb0e985e3e9a20539936ba68d34ed914685f7b8335385ebe0e3170a2",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I219",
+      "name": "烘焙黑巧克力",
+      "file": "/food/I219.svg",
+      "sha256": "b812559d55234a3e47ebcb9228f1e5b2586f508c504bac53affb7a63cf01bd4b",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I220",
+      "name": "浅色糖蜜红糖",
+      "file": "/food/I220.svg",
+      "sha256": "efaf51de316fce4b4da51aed5626ed716ce4b77908046187ede6e019b45c9e66",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I221",
+      "name": "白滝面",
+      "file": "/food/I221.svg",
+      "sha256": "7e72b57b2366cd55431f3766ba0041ec50e3b8c6878c6df7c9da370edfb608b7",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I222",
+      "name": "清酒",
+      "file": "/food/I222.svg",
+      "sha256": "799365f6856092a93347d6db79b22761de3ce11782e10435980c101e2c5992ab",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I223",
+      "name": "味醂",
+      "file": "/food/I223.svg",
+      "sha256": "0ff7589027e7a5f7f07bb62cf6ea5e26ef36229433df754ca5c4a217df515991",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
+    },
+    {
+      "id": "I224",
+      "name": "日式出汁",
+      "file": "/food/I224.svg",
+      "sha256": "d72431a1b6a76ce926a1a53522f415b6502e49b39e69bb4ef3285de738687e75",
+      "sourceSet": "expansion-300-r03",
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r03",
+        "figmaNativeReviewed": false
+      }
     }
   ]
 }
