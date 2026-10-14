@@ -2350,6 +2350,126 @@
       "file": "/food/D151.svg",
       "sha256": "d93116ccdc0ebecde1e76a93281a53c9ede0cf5989f07383bee2219da13b7873",
       "sourceSet": "content-expansion-2026-10"
+    },
+    {
+      "id": "D172",
+      "name": "夫妻肺片",
+      "file": "/food/D172.svg",
+      "sha256": "561063f79093f7437512c0b72658ca4c3d09bef3ee8a40dd5dc671b4ae20f86a",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
+    },
+    {
+      "id": "D176",
+      "name": "棒棒鸡",
+      "file": "/food/D176.svg",
+      "sha256": "75f084829b517730b47225733464fbae26c1fb36e41539e635c2b795d9cc87f4",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
+    },
+    {
+      "id": "D352",
+      "name": "法式洋葱汤",
+      "file": "/food/D352.svg",
+      "sha256": "bbc894c63d3d3074041f17a7e73430e0a4c7a639f46d6fa37b743ecbce2cec05",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
+    },
+    {
+      "id": "D354",
+      "name": "勃艮第红酒炖牛肉",
+      "file": "/food/D354.svg",
+      "sha256": "c058df2070cfd6a81aeac6e5ccf583084d104cb880cf99622ac59c7729b24cb0",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
+    },
+    {
+      "id": "D355",
+      "name": "法式油封鸭腿",
+      "file": "/food/D355.svg",
+      "sha256": "c3943e271a285e2806e1c6d38d22670d1f3bc2cca3b633991456eb785278511a",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
+    },
+    {
+      "id": "D356",
+      "name": "尼斯蔬菜杂烩",
+      "file": "/food/D356.svg",
+      "sha256": "7d3f55a40f0633850fa36d4146e175b30292ca48ecd428bd7e29f62c35edd48b",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
+    },
+    {
+      "id": "I180",
+      "name": "牛肚",
+      "file": "/food/I180.svg",
+      "sha256": "6fa4e831b7a4b938cb960a395422cc7c7163c9622df441309908e1c00baaad69",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
+    },
+    {
+      "id": "I181",
+      "name": "白芝麻",
+      "file": "/food/I181.svg",
+      "sha256": "f79c1fcc81d93aa473087fd9a556eb85f9248527f376e0ae64e9a9e8a0dbf14a",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
+    },
+    {
+      "id": "I182",
+      "name": "低盐牛肉高汤",
+      "file": "/food/I182.svg",
+      "sha256": "3c8ee6b617a4a75f4e09b1c288b22b2dadd28ccc1f1d506b2c07f261b3d8894d",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
+    },
+    {
+      "id": "I183",
+      "name": "红葡萄酒",
+      "file": "/food/I183.svg",
+      "sha256": "35afd30b9656024feb3dd20e6c80c7ebab7eedc335e203648f083652ff7c714b",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
+    },
+    {
+      "id": "I184",
+      "name": "白葡萄酒",
+      "file": "/food/I184.svg",
+      "sha256": "48ef75ae74a7280b46272b97f3391b71e2cf587b41006b8761b0314fd59dfade",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
+    },
+    {
+      "id": "I185",
+      "name": "鲜百里香",
+      "file": "/food/I185.svg",
+      "sha256": "6384028d92500de1ddde6cefeceed959ea6776b2923b272ab09177d68c3c725e",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
+    },
+    {
+      "id": "I186",
+      "name": "月桂叶",
+      "file": "/food/I186.svg",
+      "sha256": "4716d2694c2ffe303978b60d18732dcad0468775ec5bf13098296ece9919b058",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
+    },
+    {
+      "id": "I187",
+      "name": "鸭腿",
+      "file": "/food/I187.svg",
+      "sha256": "0e5b7af63c3143170bc22af2756e19cc42cf5733187a63d4c7fa1cbfbc92f345",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
+    },
+    {
+      "id": "I188",
+      "name": "鸭油",
+      "file": "/food/I188.svg",
+      "sha256": "8fdbdac059dcf4408b6dca13cba139b3f0fd380898acd32ca6d010cd36681da9",
+      "sourceSet": "expansion-300-r01",
+      "status": "qa-passed"
     }
   ]
 }
