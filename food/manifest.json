@@ -2355,121 +2355,361 @@
       "id": "D172",
       "name": "夫妻肺片",
       "file": "/food/D172.svg",
-      "sha256": "561063f79093f7437512c0b72658ca4c3d09bef3ee8a40dd5dc671b4ae20f86a",
+      "sha256": "240840abecaaa10441eee8d16c0c35fc2ebe0fed85523d290db786de4300d0e9",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "D176",
       "name": "棒棒鸡",
       "file": "/food/D176.svg",
-      "sha256": "75f084829b517730b47225733464fbae26c1fb36e41539e635c2b795d9cc87f4",
+      "sha256": "9ef0512224cd3796568eb67784bc7028ea042408027bd45f5d0c450f13abb6bc",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "D352",
       "name": "法式洋葱汤",
       "file": "/food/D352.svg",
-      "sha256": "bbc894c63d3d3074041f17a7e73430e0a4c7a639f46d6fa37b743ecbce2cec05",
+      "sha256": "8b243d3877cc1d5e1658af51ef7bf8aba0ceb1b75834558ad538a0b620ee304c",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "D354",
       "name": "勃艮第红酒炖牛肉",
       "file": "/food/D354.svg",
-      "sha256": "c058df2070cfd6a81aeac6e5ccf583084d104cb880cf99622ac59c7729b24cb0",
+      "sha256": "5d2a9d69093c155f98b32882e87c758272fa15dc28e58168ebd43659e99ee867",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "D355",
       "name": "法式油封鸭腿",
       "file": "/food/D355.svg",
-      "sha256": "c3943e271a285e2806e1c6d38d22670d1f3bc2cca3b633991456eb785278511a",
+      "sha256": "dab5f08e412cb45ad31b7f22ac0e4ce9c941d2c0f633a61125664b09adfce0d4",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "D356",
       "name": "尼斯蔬菜杂烩",
       "file": "/food/D356.svg",
-      "sha256": "7d3f55a40f0633850fa36d4146e175b30292ca48ecd428bd7e29f62c35edd48b",
+      "sha256": "2c2f5aab1b55f855c902e30a3b193d6c1997394ec24a01e94d14588cfaa7527d",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I180",
       "name": "牛肚",
       "file": "/food/I180.svg",
-      "sha256": "6fa4e831b7a4b938cb960a395422cc7c7163c9622df441309908e1c00baaad69",
+      "sha256": "daee56e7a521e3668302a8539432aab031bdeca47182d0836a74f0d25331c9c0",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I181",
       "name": "白芝麻",
       "file": "/food/I181.svg",
-      "sha256": "f79c1fcc81d93aa473087fd9a556eb85f9248527f376e0ae64e9a9e8a0dbf14a",
+      "sha256": "79ef9c24c99dc80b6040531e769c7590c29339da8c298723bf1a48cb8c9de42e",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I182",
       "name": "低盐牛肉高汤",
       "file": "/food/I182.svg",
-      "sha256": "3c8ee6b617a4a75f4e09b1c288b22b2dadd28ccc1f1d506b2c07f261b3d8894d",
+      "sha256": "e3326038cfc06fc672e1b06903964ed2dded700f6a3962938db5870e245b83bc",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I183",
       "name": "红葡萄酒",
       "file": "/food/I183.svg",
-      "sha256": "35afd30b9656024feb3dd20e6c80c7ebab7eedc335e203648f083652ff7c714b",
+      "sha256": "88fe4b3b26bf61630e90bd23af921d379adc9c30d8693e4d916454ebf9d0674c",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I184",
       "name": "白葡萄酒",
       "file": "/food/I184.svg",
-      "sha256": "48ef75ae74a7280b46272b97f3391b71e2cf587b41006b8761b0314fd59dfade",
+      "sha256": "0886e643a24abc0bd8ab4ba880591077f17cf6fe86e0aec356292b1850fad936",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I185",
       "name": "鲜百里香",
       "file": "/food/I185.svg",
-      "sha256": "6384028d92500de1ddde6cefeceed959ea6776b2923b272ab09177d68c3c725e",
+      "sha256": "bfc0245efc35ab5a087d661501458268de36872bb11cf711eddf9d7cc6c24e94",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I186",
       "name": "月桂叶",
       "file": "/food/I186.svg",
-      "sha256": "4716d2694c2ffe303978b60d18732dcad0468775ec5bf13098296ece9919b058",
+      "sha256": "d8e862868fc78eb206f29097b5b96a0d2c1578c2d97a0c2c4c47e1126ddb8f98",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I187",
       "name": "鸭腿",
       "file": "/food/I187.svg",
-      "sha256": "0e5b7af63c3143170bc22af2756e19cc42cf5733187a63d4c7fa1cbfbc92f345",
+      "sha256": "a37263aef106c2e6a4602865bd15d442c3e96b9654019e03accfba5ff013211c",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I188",
       "name": "鸭油",
       "file": "/food/I188.svg",
-      "sha256": "8fdbdac059dcf4408b6dca13cba139b3f0fd380898acd32ca6d010cd36681da9",
+      "sha256": "64d8af3b4bdea10ac45f70b176c09a91f221d1bca9733cf05f39889e8a9ab396",
       "sourceSet": "expansion-300-r01",
-      "status": "qa-passed"
+      "status": "qa-passed",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "D195",
@@ -2477,7 +2717,23 @@
       "file": "/food/D195.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "9201f55db0ab2e20a038dd38cd85365b59796cadf1745be145263e72f7855213"
+      "sha256": "7dc21687a5bef349defb73f41e3f9fa5a77805898230916de5b0dd1784ef9239",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "D196",
@@ -2485,7 +2741,23 @@
       "file": "/food/D196.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "88c99c5511315815bdc4fb090b51917c63886780432f9876ca1a66ef0adfc84f"
+      "sha256": "78c520c7e1a21023b5c75e2dd15e31ba928bde810774de9353ffc6ec6bd00e02",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "D197",
@@ -2493,7 +2765,23 @@
       "file": "/food/D197.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "8508dc8d01b994e5b586680be0580ef62fc9f15640fe2a8513b6df205b84290b"
+      "sha256": "b4bdc92f4cb410592a6c238fc7e098e35239e66f308ad3785835b15d030921c1",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "D201",
@@ -2501,7 +2789,23 @@
       "file": "/food/D201.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "48fffb7f433efe6b6eb6168e557f91f6e7b4c042b2e9ed90c60bf7c6328d327c"
+      "sha256": "11ad92e43689ba87310c4e2a0dbdfeba7d0a4d4b3e36fca71553809125d97bad",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "D213",
@@ -2509,7 +2813,23 @@
       "file": "/food/D213.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "9c2ad40bb41a49c659e869d92e5ac95ce24669198be2b4528a1f9f2dc9eb4b7f"
+      "sha256": "118b6750efa133b8dc643081e7b5a08b551b999c62993722bdd6bee9ca297787",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "D357",
@@ -2517,7 +2837,23 @@
       "file": "/food/D357.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "f5bc0220960c71fbc51e6b73ae0ec4c0a815e8d3e9b5a2fcc8044c11426753cf"
+      "sha256": "2b18b7d00f75c4447e5c186bc5e6d3d06d2e07669f91519d0a42cd3248705370",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "D360",
@@ -2525,7 +2861,23 @@
       "file": "/food/D360.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "ba1ae35f8161f4ebc25b08f7a8e944282eb62fe60c0887da14e19e802bb24591"
+      "sha256": "a0ed1ede1e013ad8538857dc555f0e75265adbdfe9619f88ec2d0dec0decfcd7",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "D361",
@@ -2533,7 +2885,23 @@
       "file": "/food/D361.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "7a0a9135f39b1832acdcd4230b5c92b56c858b18f9bd46a9d80bb4f0e79cc10f"
+      "sha256": "bda6c3a71ab057d9744533952de1799f309c598b2253d61fb1585ba8166a50c7",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "D365",
@@ -2541,7 +2909,23 @@
       "file": "/food/D365.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "ed79f6b6ef4cdb2bb0d05162da406e3c71fcdba494b269feed67e1370b951383"
+      "sha256": "bee7af5081bcf1b51473ab4f24d9d536a35976a7555d39e731d6b63347ac5bb8",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I189",
@@ -2549,7 +2933,23 @@
       "file": "/food/I189.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "8dfc40fe18e24b88b7028f4f25ae3e08b1b551f28f160fef9fe4644af7c10bfc"
+      "sha256": "3f0af8469936fa4c11be0a66a89524dfafc784d3586bc77a3d29afeb5ad5bfa6",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I190",
@@ -2557,7 +2957,23 @@
       "file": "/food/I190.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "29b9618e75684effec17d27d0c8420452c264cd6c84071a1949c63bcfc4d31a3"
+      "sha256": "bce8107992071899a1b2737fdaa80be06005bb9e3f287ba2bfe3035793fa1b92",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I191",
@@ -2565,7 +2981,23 @@
       "file": "/food/I191.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "269a7daa64ead1b54f72ffc0a0631c312825ed42d3e263eb4deaf60d26259a71"
+      "sha256": "d7834bc3bb3d6cd90196ec6b8c5a4113ddd9cd5acafc520ff47a99daeed1866a",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I192",
@@ -2573,7 +3005,23 @@
       "file": "/food/I192.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "a3fae22366e7070084130f7ccc635b9ba4e879ceb488cbc0811439f099f1ca29"
+      "sha256": "85ca4d0da0e1f620bc5784c64c1c4a4b32e738028ba5f6656d898fdd3a9fcfd8",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I193",
@@ -2581,7 +3029,23 @@
       "file": "/food/I193.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "da6752b2a84f30ffe81b5bc40f993acb42d37fc8c332863705172d5ba2897516"
+      "sha256": "33f1c2d3b7bdc4f980c80cb12281451ac61093674b84a755b842f8f604a924a5",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I194",
@@ -2589,7 +3053,23 @@
       "file": "/food/I194.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "9a85b1e39ba4673a84494dc562f9fbe763bacb944affba6d9cec1c476e7151b6"
+      "sha256": "a547861938592215991415e1054fd0ae03fcc25906cb1894b9ee8d755de14d18",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I195",
@@ -2597,7 +3077,23 @@
       "file": "/food/I195.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "c97357a2aebb50ac7a30cd96507761b7dc2963da59b1610176ed766e15dc5732"
+      "sha256": "e7da4c084c3bef9aaa63bb6637345aa5b1e4688895090fe282a0e10bcf0f1cf5",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I196",
@@ -2605,7 +3101,23 @@
       "file": "/food/I196.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "a7b638f017ae80878b36c63baaa910bce7aa602fe22f8f7a7fd39da29cb848ac"
+      "sha256": "f348942fca771b5a4525b54309764fedb5cb7c05e142331582aaa89f9d0dbe7f",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I197",
@@ -2613,7 +3125,23 @@
       "file": "/food/I197.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "cf67f6382f3c180b025ad50294e56ab5f6d92d04466537672f8e2fa7851a692e"
+      "sha256": "6c7f6249b94eabd918de572fadf317fa8ee33c8c19c61eaa3cf30975fa68eeea",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I198",
@@ -2621,7 +3149,23 @@
       "file": "/food/I198.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "ed69eb2190c93445878bbdbd09c444e185f984d8984e16004cf047e4beb731d2"
+      "sha256": "7c34e9c4c8f9da2ff60dde84884d6ea624773ef32a20d1d246992539c549401c",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I199",
@@ -2629,7 +3173,23 @@
       "file": "/food/I199.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "d6d9258a4e4ef0ab138acd12190dcd14607e368c4a9109c3194b356a1c59bf37"
+      "sha256": "900fb4d94391353e84e06d3f23433c34bf49b013179e3881b49e8c841bff3620",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     },
     {
       "id": "I200",
@@ -2637,7 +3197,23 @@
       "file": "/food/I200.svg",
       "sourceSet": "expansion-300-r02",
       "status": "qa-passed",
-      "sha256": "de5e4cd870265da4a29d12b2052770d12f4d5311e4c7a6e272cc48a75ab22436"
+      "sha256": "d4ba86c2989806fdcd623f0cf64e5626aa6885c69a2fa6c9fe0c08f912a87496",
+      "strokeStandard": {
+        "color": "#756044",
+        "widthAt120x100": 1.6,
+        "alignment": "center",
+        "cap": "round",
+        "join": "round"
+      },
+      "visualReview": {
+        "method": "actual-headless-render-and-human-inspection",
+        "sizes": [
+          "120x100",
+          "165px-card"
+        ],
+        "strokeRevision": "2026-10-14-r01",
+        "figmaNativeReviewed": false
+      }
     }
   ]
 }
