@@ -2470,6 +2470,174 @@
       "sha256": "8fdbdac059dcf4408b6dca13cba139b3f0fd380898acd32ca6d010cd36681da9",
       "sourceSet": "expansion-300-r01",
       "status": "qa-passed"
+    },
+    {
+      "id": "D195",
+      "name": "豉油鸡",
+      "file": "/food/D195.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "9201f55db0ab2e20a038dd38cd85365b59796cadf1745be145263e72f7855213"
+    },
+    {
+      "id": "D196",
+      "name": "蜜汁叉烧",
+      "file": "/food/D196.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "88c99c5511315815bdc4fb090b51917c63886780432f9876ca1a66ef0adfc84f"
+    },
+    {
+      "id": "D197",
+      "name": "脆皮烧肉",
+      "file": "/food/D197.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "8508dc8d01b994e5b586680be0580ef62fc9f15640fe2a8513b6df205b84290b"
+    },
+    {
+      "id": "D201",
+      "name": "广式萝卜糕",
+      "file": "/food/D201.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "48fffb7f433efe6b6eb6168e557f91f6e7b4c042b2e9ed90c60bf7c6328d327c"
+    },
+    {
+      "id": "D213",
+      "name": "客家盐焗鸡",
+      "file": "/food/D213.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "9c2ad40bb41a49c659e869d92e5ac95ce24669198be2b4528a1f9f2dc9eb4b7f"
+    },
+    {
+      "id": "D357",
+      "name": "法式洛林咸派",
+      "file": "/food/D357.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "f5bc0220960c71fbc51e6b73ae0ec4c0a815e8d3e9b5a2fcc8044c11426753cf"
+    },
+    {
+      "id": "D360",
+      "name": "法式焦糖布丁",
+      "file": "/food/D360.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "ba1ae35f8161f4ebc25b08f7a8e944282eb62fe60c0887da14e19e802bb24591"
+    },
+    {
+      "id": "D361",
+      "name": "法式可丽饼",
+      "file": "/food/D361.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "7a0a9135f39b1832acdcd4230b5c92b56c858b18f9bd46a9d80bb4f0e79cc10f"
+    },
+    {
+      "id": "D365",
+      "name": "卡普雷塞沙拉",
+      "file": "/food/D365.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "ed79f6b6ef4cdb2bb0d05162da406e3c71fcdba494b269feed67e1370b951383"
+    },
+    {
+      "id": "I189",
+      "name": "小整鸡",
+      "file": "/food/I189.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "8dfc40fe18e24b88b7028f4f25ae3e08b1b551f28f160fef9fe4644af7c10bfc"
+    },
+    {
+      "id": "I190",
+      "name": "白胡椒粉",
+      "file": "/food/I190.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "29b9618e75684effec17d27d0c8420452c264cd6c84071a1949c63bcfc4d31a3"
+    },
+    {
+      "id": "I191",
+      "name": "五香粉",
+      "file": "/food/I191.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "269a7daa64ead1b54f72ffc0a0631c312825ed42d3e263eb4deaf60d26259a71"
+    },
+    {
+      "id": "I192",
+      "name": "海鲜酱",
+      "file": "/food/I192.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "a3fae22366e7070084130f7ccc635b9ba4e879ceb488cbc0811439f099f1ca29"
+    },
+    {
+      "id": "I193",
+      "name": "蜂蜜",
+      "file": "/food/I193.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "da6752b2a84f30ffe81b5bc40f993acb42d37fc8c332863705172d5ba2897516"
+    },
+    {
+      "id": "I194",
+      "name": "粗海盐",
+      "file": "/food/I194.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "9a85b1e39ba4673a84494dc562f9fbe763bacb944affba6d9cec1c476e7151b6"
+    },
+    {
+      "id": "I195",
+      "name": "沙姜粉",
+      "file": "/food/I195.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "c97357a2aebb50ac7a30cd96507761b7dc2963da59b1610176ed766e15dc5732"
+    },
+    {
+      "id": "I196",
+      "name": "干虾",
+      "file": "/food/I196.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "a7b638f017ae80878b36c63baaa910bce7aa602fe22f8f7a7fd39da29cb848ac"
+    },
+    {
+      "id": "I197",
+      "name": "干香菇",
+      "file": "/food/I197.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "cf67f6382f3c180b025ad50294e56ab5f6d92d04466537672f8e2fa7851a692e"
+    },
+    {
+      "id": "I198",
+      "name": "香草精",
+      "file": "/food/I198.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "ed69eb2190c93445878bbdbd09c444e185f984d8984e16004cf047e4beb731d2"
+    },
+    {
+      "id": "I199",
+      "name": "鲜马苏里拉",
+      "file": "/food/I199.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "d6d9258a4e4ef0ab138acd12190dcd14607e368c4a9109c3194b356a1c59bf37"
+    },
+    {
+      "id": "I200",
+      "name": "橄榄油",
+      "file": "/food/I200.svg",
+      "sourceSet": "expansion-300-r02",
+      "status": "qa-passed",
+      "sha256": "de5e4cd870265da4a29d12b2052770d12f4d5311e4c7a6e272cc48a75ab22436"
     }
   ]
 }
