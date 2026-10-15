@@ -5607,14 +5607,15 @@
       "file": "/food/D156.svg",
       "sha256": "5e1006aafc5b08ad82c16f8675a7c2e6be620ef870e9a8bc32fcbc9c00dccd49",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D157",
@@ -5622,14 +5623,15 @@
       "file": "/food/D157.svg",
       "sha256": "5b81a98da0d52f5510c695bbf1250b5af442da72f47f20a40cf0063f675313ba",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D160",
@@ -5637,14 +5639,15 @@
       "file": "/food/D160.svg",
       "sha256": "7a8619d496987f7e57a26c3efe1ded6a0a56e85e34897182a9bc30f88b3dd87e",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D163",
@@ -5652,14 +5655,15 @@
       "file": "/food/D163.svg",
       "sha256": "8136ff84506b274319d375c558918356529f871b80caa970859a516137150cbe",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D171",
@@ -5667,14 +5671,15 @@
       "file": "/food/D171.svg",
       "sha256": "691ffef244a2699c3f001223833b802e53c43d2f22389bd6764bf729b4fd8dc0",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D161",
@@ -5682,14 +5687,15 @@
       "file": "/food/D161.svg",
       "sha256": "6a2a698f72fbd22eb3ead0b8e6783d5e2163267cbc733e39632b8a370d520bd2",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D162",
@@ -5697,14 +5703,15 @@
       "file": "/food/D162.svg",
       "sha256": "4b806105e856ef54faf4433dfddce665a17f66581da8e8df1e3a65b22b4084e7",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D165",
@@ -5712,14 +5719,15 @@
       "file": "/food/D165.svg",
       "sha256": "5b5eeba8ae592f9278c6c7cffcbfecc72a3965c16c0432586c2c2b74570775bb",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D167",
@@ -5727,14 +5735,15 @@
       "file": "/food/D167.svg",
       "sha256": "2249f406074df8e5a26230ec28057ccebf7fd7126de7ac8eec9a6717a5f053f1",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D168",
@@ -5742,14 +5751,15 @@
       "file": "/food/D168.svg",
       "sha256": "cf040e4e72f7568ec9937687c5154c575630f555bef1669a880e55e523e0d188",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D181",
@@ -5757,14 +5767,15 @@
       "file": "/food/D181.svg",
       "sha256": "4b92c29c59585a8e57fbeda6ca63b2551156e9f8713d72298f4743f6673e7aea",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D284",
@@ -5772,14 +5783,15 @@
       "file": "/food/D284.svg",
       "sha256": "4cb49be59af6d9d63c98c0c4f6e71e3794353d83ea568ecbd7e67a19a382ff8d",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D185",
@@ -5787,14 +5799,15 @@
       "file": "/food/D185.svg",
       "sha256": "92b33a430a703d6d88aba113197a88b3c1e1670637ef61aaf375427f294d867f",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D190",
@@ -5802,14 +5815,15 @@
       "file": "/food/D190.svg",
       "sha256": "e00af59b12b27057d1c5a6a8442786d1cf9a803d7670021239bb467b1ed11cc9",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D179",
@@ -5817,14 +5831,15 @@
       "file": "/food/D179.svg",
       "sha256": "5f34c37c24e587e883da0fdbbf107ed212c803a631ee55c169d73cad5bfec710",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D183",
@@ -5832,14 +5847,15 @@
       "file": "/food/D183.svg",
       "sha256": "77eb33aa7b3163f3fe4d6ac7e1949a23ca05b714183aec52ca22a87f54fb56be",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D184",
@@ -5847,14 +5863,15 @@
       "file": "/food/D184.svg",
       "sha256": "79a568e79ac8eaafb0ebff94b7d60ae3ad86f1fbae1dfe1c70e9329334e7d648",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D187",
@@ -5862,14 +5879,15 @@
       "file": "/food/D187.svg",
       "sha256": "b42ecec127df87fc940bea5746c37e25a7d7c1c5e73285932e97ee5ea27c6c92",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D189",
@@ -5877,14 +5895,15 @@
       "file": "/food/D189.svg",
       "sha256": "81cdbddee94327cd48963f1ef36af39d04e12a660aef184890eea2403b65b6fa",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D180",
@@ -5892,14 +5911,15 @@
       "file": "/food/D180.svg",
       "sha256": "7374ab76aa06c42ec5becbdbacb82a2a9071c3a180bedc1658ca9f4a3b9ab4d7",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D173",
@@ -5907,14 +5927,15 @@
       "file": "/food/D173.svg",
       "sha256": "071141ecd41723d98238ef92676a31e99b0a75cbcd447e63d7dc5cbaf8cc6a1b",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D188",
@@ -5922,14 +5943,15 @@
       "file": "/food/D188.svg",
       "sha256": "8e3092c85a9df74500cecb2f0269efb27c5035474abde31d087d2efe3167b3ac",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D191",
@@ -5937,14 +5959,15 @@
       "file": "/food/D191.svg",
       "sha256": "74459151c1b6f9bfe339f130438ce2111d854f880131fc6169ac81b5beb0f5b6",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D193",
@@ -5952,14 +5975,15 @@
       "file": "/food/D193.svg",
       "sha256": "24fd4ada1b57568953ad709c8565f265180daabbfd3f4392ad2f72973fd49103",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D186",
@@ -5967,14 +5991,15 @@
       "file": "/food/D186.svg",
       "sha256": "84b111cf98bdc20b9e032f28286a2d2313d4cef3a3d6ebc7e40efc47f026debc",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D298",
@@ -5982,14 +6007,15 @@
       "file": "/food/D298.svg",
       "sha256": "60edd6e1243b617d0ffb30e24d3a4475f2dcd1f2c5a9401810bcff861e6d262c",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D300",
@@ -5997,14 +6023,15 @@
       "file": "/food/D300.svg",
       "sha256": "e25812e2603fcd71fc0e8c1fe21ee367bce0fa63046151423dbc6e27151655d9",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D301",
@@ -6012,14 +6039,15 @@
       "file": "/food/D301.svg",
       "sha256": "8ff432888e0dac6cfb5e6cf3f0cd4cc0f0bc6e22c0a0313b8fa8ea95ac9667dc",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D302",
@@ -6027,14 +6055,15 @@
       "file": "/food/D302.svg",
       "sha256": "7770bde206be85dff19551e4f60ea00507048c1e13293cd0b542d13695f6081d",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D305",
@@ -6042,14 +6071,15 @@
       "file": "/food/D305.svg",
       "sha256": "dcc89cb3fc8130ba7c460235629f2c7ff4a676da214c880238a3970b69c1ab5f",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D242",
@@ -6057,14 +6087,15 @@
       "file": "/food/D242.svg",
       "sha256": "afb2807a9fc6bd506b1d776f1c6ff7053990999586de85fe32e104b6a79dcd42",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D244",
@@ -6072,14 +6103,15 @@
       "file": "/food/D244.svg",
       "sha256": "d98fac77b72260a026acfbf322328e94dce037d2eab1793d3fbc7734b85f2208",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D250",
@@ -6087,14 +6119,15 @@
       "file": "/food/D250.svg",
       "sha256": "709cc759b945afd1b0ff35917c8331f9261c75f845396e77de0e62921c2a9913",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D253",
@@ -6102,14 +6135,15 @@
       "file": "/food/D253.svg",
       "sha256": "9c378af0426141112194d78a7e938d28b9e3179f47f3c14b95b01c105596e982",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D257",
@@ -6117,14 +6151,15 @@
       "file": "/food/D257.svg",
       "sha256": "f42f73a9ceb5b2cfa81d94100e5e4bb3b057b30e3b4f2e5605e32474fc30496f",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D233",
@@ -6132,14 +6167,15 @@
       "file": "/food/D233.svg",
       "sha256": "463980fa7dfe4a042fd1fe08c902d1b4956662f0ce717aae68a873724ade7cb3",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D258",
@@ -6147,14 +6183,15 @@
       "file": "/food/D258.svg",
       "sha256": "8b2e8d620c5fa0fadc15ae383aaa509fc5911231599e59e736349290d78dfcaf",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D264",
@@ -6162,14 +6199,15 @@
       "file": "/food/D264.svg",
       "sha256": "d7b0d07b923a2f9a7909e55b7582eeed8d6ec7a249c808db6aa52ea16469f63e",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D274",
@@ -6177,14 +6215,15 @@
       "file": "/food/D274.svg",
       "sha256": "eb09dfdcd9b295f7ccf97653200cdf6464bc804716541881fa808f1033ccac21",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D276",
@@ -6192,14 +6231,15 @@
       "file": "/food/D276.svg",
       "sha256": "7412c24dc3dfe854ea5101d43b8dc8fd8f34b0f3a7ef7376ddda2741abef2254",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D225",
@@ -6207,14 +6247,15 @@
       "file": "/food/D225.svg",
       "sha256": "5bc7766d1495bac53d243d55c90be7cba6d5210353829eb04b2578db566ddd5c",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D228",
@@ -6222,14 +6263,15 @@
       "file": "/food/D228.svg",
       "sha256": "6f4b95d0e141dfcac6465836b395dd571c5ef88f60f66868933e9acc152414ec",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D263",
@@ -6237,14 +6279,15 @@
       "file": "/food/D263.svg",
       "sha256": "d2eeb05b873ebd74ceb076ad2583ee56a07a8d01d284b6b4f547280b909e9c57",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D275",
@@ -6252,14 +6295,15 @@
       "file": "/food/D275.svg",
       "sha256": "030de40575955d66215f01a2c4d1c5c89832ad765c25e2983b40a58d6acc9fb3",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D277",
@@ -6267,14 +6311,15 @@
       "file": "/food/D277.svg",
       "sha256": "fa68bfcc635c1e371f23b7edf16e97124b4dd0073677b4727ae3d16442820de3",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D198",
@@ -6282,14 +6327,15 @@
       "file": "/food/D198.svg",
       "sha256": "8003b9896e1c647b8af6da5a6f299de6b33b4483f47ab2bf5378049d83e90952",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D206",
@@ -6297,14 +6343,15 @@
       "file": "/food/D206.svg",
       "sha256": "32a2a11703a6e1c26645dcc421a0155362daf102d4ff04f1dfa40c80221840e8",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D210",
@@ -6312,14 +6359,15 @@
       "file": "/food/D210.svg",
       "sha256": "72b0732cda78d1cbad5261ba8b27026e7980096e54e8ba4af2c8832066534217",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D330",
@@ -6327,14 +6375,15 @@
       "file": "/food/D330.svg",
       "sha256": "7a463d4a12ef3f8beba8d5ac23ad558f3054bb40116ee35bd4a1719b90f31a4c",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D345",
@@ -6342,14 +6391,15 @@
       "file": "/food/D345.svg",
       "sha256": "ae9c7cf07282ac94be47f78545f8101f44376cc2e335f865b017cb39fcdc1400",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D333",
@@ -6357,14 +6407,15 @@
       "file": "/food/D333.svg",
       "sha256": "87a3f8fcb47c904f41406bef5db9ecdfcd2e8c8d6bd5c76b373b57288f5efda8",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D334",
@@ -6372,14 +6423,15 @@
       "file": "/food/D334.svg",
       "sha256": "ea8efc11cc526502170e42bc3263d09f2b0879f6e4704d9daba7d8bf999cfbc3",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D335",
@@ -6387,14 +6439,15 @@
       "file": "/food/D335.svg",
       "sha256": "f7d7742d152ef0ccb2554c85f8d49e5d0d8cc7d2b47e173752b2135dad20267a",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D336",
@@ -6402,14 +6455,15 @@
       "file": "/food/D336.svg",
       "sha256": "0b1b4755d1ea89c329f8c73c8c077b8aad1980bb518ee88800d737c3a65dd641",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D337",
@@ -6417,14 +6471,15 @@
       "file": "/food/D337.svg",
       "sha256": "cded6152e3a2b63913a068f77a50fe2e6c7721651c13a457258ae362f50079f1",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D200",
@@ -6432,14 +6487,15 @@
       "file": "/food/D200.svg",
       "sha256": "0baca101cb4ba0e359b87886a64e613e9f5a6330b63f545cbb8620259d9af626",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D203",
@@ -6447,14 +6503,15 @@
       "file": "/food/D203.svg",
       "sha256": "9668c5357c78893a2277e898f2c8ace790a59c982257998837631df7ece5236c",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D204",
@@ -6462,14 +6519,15 @@
       "file": "/food/D204.svg",
       "sha256": "e0f35914be29328eeb0b1a35c39e42ab765d48930c217c574f17a210c6cb3f19",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D205",
@@ -6477,14 +6535,15 @@
       "file": "/food/D205.svg",
       "sha256": "c8bdcbb93fdc28a6d6d4ed104646a26bc4910ab838a3cb56fb2317ee9ee7196c",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D207",
@@ -6492,14 +6551,15 @@
       "file": "/food/D207.svg",
       "sha256": "013146ee93c999e8b619cb378690a29f4655e5050c8e157fe96e23698a233204",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D385",
@@ -6507,14 +6567,15 @@
       "file": "/food/D385.svg",
       "sha256": "d92a457d8d2e27270b068f9abd18becaa46aa1afb967ba6d569bb4b24f276595",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D387",
@@ -6522,14 +6583,15 @@
       "file": "/food/D387.svg",
       "sha256": "d409a6d5ef94608a61c315d0f7ce46750811226dbf3f352d9939dc88fb3550c3",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D393",
@@ -6537,14 +6599,15 @@
       "file": "/food/D393.svg",
       "sha256": "2fc13952c4c3ab41497341b932eaf22062ed4fb49f47da6f29950013196a7d75",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D395",
@@ -6552,14 +6615,15 @@
       "file": "/food/D395.svg",
       "sha256": "6a465670566a8f708c661e405ce5032f3ffd7fcb08509d2df8b5b61cb44a1044",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D399",
@@ -6567,14 +6631,15 @@
       "file": "/food/D399.svg",
       "sha256": "71a73e0e0dc7aba97df6047fabe7690a4da226549402cdd6e5f4c5178edb51a6",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D378",
@@ -6582,14 +6647,15 @@
       "file": "/food/D378.svg",
       "sha256": "4e0c6750325d944a862682b510d87acb8b985812e4d303ba9b7476dd07291c3b",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D380",
@@ -6597,14 +6663,15 @@
       "file": "/food/D380.svg",
       "sha256": "aa3a8fc62d7287b50aa3705dd11955b84238a32f5e8eb4f3f16c56dcb76b1bd8",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D382",
@@ -6612,14 +6679,15 @@
       "file": "/food/D382.svg",
       "sha256": "a12305de3da3e3eb1fa26c0a1305f68d2bbbe739346ae67708eba3450b533b7c",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D383",
@@ -6627,14 +6695,15 @@
       "file": "/food/D383.svg",
       "sha256": "4c34e0b6a86e503533530654fc1ff5d68ffce103cbdb5b7363a3119cbab5f65b",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D388",
@@ -6642,14 +6711,15 @@
       "file": "/food/D388.svg",
       "sha256": "3c6d987d3a78bc13a9a25954149e2e8bd77b9e15ab606df99a2688405a57a3c9",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D401",
@@ -6657,14 +6727,15 @@
       "file": "/food/D401.svg",
       "sha256": "22eb0bb0309e6562b2d41365a33a4346b6706cb4463e18360cec034de0bcf02a",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D402",
@@ -6672,14 +6743,15 @@
       "file": "/food/D402.svg",
       "sha256": "4ba9fa93e83a1d9f4afa3fac456f717109d7bc662456a81229e2c57ccf9898f9",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D403",
@@ -6687,14 +6759,15 @@
       "file": "/food/D403.svg",
       "sha256": "dac35e881f365eb564108f322ba39da1cd99e58325a0acaac3c7cdbc408dc69e",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D404",
@@ -6702,14 +6775,15 @@
       "file": "/food/D404.svg",
       "sha256": "0dec6f43ae201e7a63f3f02f9e7979158a6c1df92e6f04b6c045aa6f5f2ffe91",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D405",
@@ -6717,14 +6791,15 @@
       "file": "/food/D405.svg",
       "sha256": "8dc1ba6967a4c71372773e51f0afd1ed0523d4eb022aad72a96313e991958e55",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D409",
@@ -6732,14 +6807,15 @@
       "file": "/food/D409.svg",
       "sha256": "59e8910328bff3437f84f70357f377d914b97d67ebd3ec4ea36824f99bc0e9d2",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D411",
@@ -6747,14 +6823,15 @@
       "file": "/food/D411.svg",
       "sha256": "e825007397faf35896858198828e9e8b697592802c7e8eaee5961c9f814c4b86",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D412",
@@ -6762,14 +6839,15 @@
       "file": "/food/D412.svg",
       "sha256": "e1300e06c1e35f4180d0df59dd1677c6befdbdc4ae6a59480adc6e53f1b6ee15",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D415",
@@ -6777,14 +6855,15 @@
       "file": "/food/D415.svg",
       "sha256": "04cff9c63a68164e9f0fa9612fa93dccad9f895572b4c20c578b1fc74b3911e6",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "D416",
@@ -6792,14 +6871,15 @@
       "file": "/food/D416.svg",
       "sha256": "2fff39a79bd112004565f5a7c81878964d976f18fd066b23d5bce25b8c3533bc",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I257",
@@ -6807,14 +6887,15 @@
       "file": "/food/I257.svg",
       "sha256": "7d0586286e45096a4a5128fa89ac2ff994397a97e3e9f0040916787de699feae",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I258",
@@ -6822,14 +6903,15 @@
       "file": "/food/I258.svg",
       "sha256": "6b66616c8bfe442e35ff5bb581a6a4bc844771c249bc1b9d005114199fdf30ef",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I259",
@@ -6837,14 +6919,15 @@
       "file": "/food/I259.svg",
       "sha256": "ba30ac7fc74756ee51c646333ff2d82224735c8f88c89b2a931a7fb82086c509",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I260",
@@ -6852,14 +6935,15 @@
       "file": "/food/I260.svg",
       "sha256": "3692b7bc7abda3daa8b433341d96b0da79123a447716f8770943f04669d7e63c",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I261",
@@ -6867,14 +6951,15 @@
       "file": "/food/I261.svg",
       "sha256": "008cb631d585194542079e9b86500a718cf3338cc7ed66bd89175b15fffc2bec",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I262",
@@ -6882,14 +6967,15 @@
       "file": "/food/I262.svg",
       "sha256": "7df1f96b744cd53e7277924b5d187f558208bd75f2382c59b6c88684f8b7e01f",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I263",
@@ -6897,14 +6983,15 @@
       "file": "/food/I263.svg",
       "sha256": "941f368f01010afb410d980f0d2a0becf05d9322d82fd3c220838672ff082fe3",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I264",
@@ -6912,14 +6999,15 @@
       "file": "/food/I264.svg",
       "sha256": "1708d36a6ba91feefdf0675703b81d470b2e63bc8e719056f3a48c13fc24a822",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I265",
@@ -6927,14 +7015,15 @@
       "file": "/food/I265.svg",
       "sha256": "374df1210ffbab6865f38c27034480173aa483a5ae587a6b196e71ac8fd77486",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I266",
@@ -6942,14 +7031,15 @@
       "file": "/food/I266.svg",
       "sha256": "4ebd80f74e0a4691bc585d43b73a69cdd9a07213cfd65d9f6df2c6f330d7ebea",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I267",
@@ -6957,14 +7047,15 @@
       "file": "/food/I267.svg",
       "sha256": "715746c709d7ff4ec93bb343377757920b98ef3ee3a1669e83d2fa486bc87e6c",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I268",
@@ -6972,14 +7063,15 @@
       "file": "/food/I268.svg",
       "sha256": "4b1430447901f76196492195ab0ab0386640128490c10a5a99eb356ce5e24082",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I269",
@@ -6987,14 +7079,15 @@
       "file": "/food/I269.svg",
       "sha256": "a2917a72151f561fe948e9458d71b92158da341c49306d053a55662f7e258a7a",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I270",
@@ -7002,14 +7095,15 @@
       "file": "/food/I270.svg",
       "sha256": "9adf5b596656c267a5dce8ec575199c46e795ebb0ab91cad66dbf2ad9e903a93",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I271",
@@ -7017,14 +7111,15 @@
       "file": "/food/I271.svg",
       "sha256": "6fa62c33bf2b66b2a6bba399a838179a3c4039f792f2c729b1ce2caff9af12a6",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I272",
@@ -7032,14 +7127,15 @@
       "file": "/food/I272.svg",
       "sha256": "fba9e42faa248a435c1587bcfd9697950b16bbce319f29dac7f137314e924092",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I273",
@@ -7047,14 +7143,15 @@
       "file": "/food/I273.svg",
       "sha256": "46de1a74fdb2472085c4b9c1892cdef4550cbb4d717c3f45cb745d5ea7582cb9",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I274",
@@ -7062,14 +7159,15 @@
       "file": "/food/I274.svg",
       "sha256": "1aea6dfd6174f240efeb9a8b0ce7eaff936c32367d28c4610bf41c58a9617856",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I275",
@@ -7077,14 +7175,15 @@
       "file": "/food/I275.svg",
       "sha256": "fa8e5d8150973ca3fb0a2b7bac305a25db4327983d0eebb7e57c695f76cb9153",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I276",
@@ -7092,14 +7191,15 @@
       "file": "/food/I276.svg",
       "sha256": "99fd3e7ad86ee3347aa2469ddc07952012f93c168ff41adbc53ed4c2232cca27",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I277",
@@ -7107,14 +7207,15 @@
       "file": "/food/I277.svg",
       "sha256": "e2cbb00a034ca7660ef6096954e0345fd40d1fc31fbd3cd67c4de65888d230f2",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I278",
@@ -7122,14 +7223,15 @@
       "file": "/food/I278.svg",
       "sha256": "966803ed96014e4d9b204e5cb2551268ba3d8494ee222c4ddcc81029d16a5778",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I279",
@@ -7137,14 +7239,15 @@
       "file": "/food/I279.svg",
       "sha256": "33176c1df43fa1b2651bc42a70818fdd7a566bd92ab2a8709b8675f2a5bfc8bd",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I280",
@@ -7152,14 +7255,15 @@
       "file": "/food/I280.svg",
       "sha256": "8a1c7e1825870903204bbc9c130f7c45c7713450f5ce85ea0cd1a3116e754957",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I281",
@@ -7167,14 +7271,15 @@
       "file": "/food/I281.svg",
       "sha256": "2ee5dda37c852286f24f64048e34b042186a404a1e92dc67947f631cb67f5d35",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I282",
@@ -7182,14 +7287,15 @@
       "file": "/food/I282.svg",
       "sha256": "81be9b1525f05d115a6125cf4f52869ff91e18bccfa6230cbc17c62579ce1c35",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I283",
@@ -7197,14 +7303,15 @@
       "file": "/food/I283.svg",
       "sha256": "4b2aec0b99ccc86df3ba3a3c9dfa966f940ea54bbc28cbff4c06bac7a42b19db",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I284",
@@ -7212,14 +7319,15 @@
       "file": "/food/I284.svg",
       "sha256": "28e682bf72ef9a491e0775d5e8bfac07465bf2c0cd06a576424f60ac6e998bfc",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I285",
@@ -7227,14 +7335,15 @@
       "file": "/food/I285.svg",
       "sha256": "a427c29c1b26ef84253a9626cb21c257b008b106a169cb7ce21987d62cb2c74e",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I286",
@@ -7242,14 +7351,15 @@
       "file": "/food/I286.svg",
       "sha256": "db3784cc9dcd234d47fa3f464a1e9870f36b74a282a87e092a4f7be8724f631f",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I287",
@@ -7257,14 +7367,15 @@
       "file": "/food/I287.svg",
       "sha256": "ec8a7a19eb954543fcfff42d2c732d8de8399f56952a07e1779e6b772450a30e",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I288",
@@ -7272,14 +7383,15 @@
       "file": "/food/I288.svg",
       "sha256": "eb70da9a9928e184353a6b80788719f12a168ad75cb8a45c298179eda8be8fe7",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I289",
@@ -7287,14 +7399,15 @@
       "file": "/food/I289.svg",
       "sha256": "5c537a0acb5ddc90fe17ca6171b9fa0269484f02cdb555c1c369b0bfc8fc1397",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I290",
@@ -7302,14 +7415,15 @@
       "file": "/food/I290.svg",
       "sha256": "f1fb5777e365cca117d83ea6096c2ab0ffd3bc276cf1f014e3542d235ea24a0d",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I291",
@@ -7317,14 +7431,15 @@
       "file": "/food/I291.svg",
       "sha256": "bce115915d8ea92db33f203a7e125e37b0469ba8084e429f04394f2db3af6408",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I292",
@@ -7332,14 +7447,15 @@
       "file": "/food/I292.svg",
       "sha256": "11e022f0f042e1896e17c7565f82c0a9e33a8c5547ba3ebf28222819573b46b4",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I293",
@@ -7347,14 +7463,15 @@
       "file": "/food/I293.svg",
       "sha256": "992c1e057d778ea9e205d885b48564556b3e70b8184d0ffbbd6944e9f4abb0c7",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I294",
@@ -7362,14 +7479,15 @@
       "file": "/food/I294.svg",
       "sha256": "6931e2a0a716ee7e13ba8ebfcbb47f94238228060b124a338524d06f34d6af00",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I295",
@@ -7377,14 +7495,15 @@
       "file": "/food/I295.svg",
       "sha256": "bdf164b4f2de25f82f3a410c7ff14460d49fa4f3ffaf7677066d66028ca3c9a8",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I296",
@@ -7392,14 +7511,15 @@
       "file": "/food/I296.svg",
       "sha256": "f2b18f88bd48a7d1334af4608bb5af70757835dca99d271e3b245c9b9f6ac391",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I297",
@@ -7407,14 +7527,15 @@
       "file": "/food/I297.svg",
       "sha256": "bad60b3554f0e125347489c64d5851d8b7a3d38ec0765c92f341a769ea3be6a5",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I298",
@@ -7422,14 +7543,15 @@
       "file": "/food/I298.svg",
       "sha256": "51fe7c5ca9ebabcb3fa94db97c3b24b725e5869b58f88253e363fdee3907f8df",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I299",
@@ -7437,14 +7559,15 @@
       "file": "/food/I299.svg",
       "sha256": "49dd8259dfb807a18018a0282acd57d628e07fd90ad465b1ef1c600c55cc2010",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I300",
@@ -7452,14 +7575,15 @@
       "file": "/food/I300.svg",
       "sha256": "616784e0a43b58de1c287c1679625dc3ab0ba26c032f9ce469e4d963e9f31fe4",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I301",
@@ -7467,14 +7591,15 @@
       "file": "/food/I301.svg",
       "sha256": "4a07f3c8cfa1403301cd7bd29c8609d15b77711fc8bd6437d1917446d4d9e6c9",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I302",
@@ -7482,14 +7607,15 @@
       "file": "/food/I302.svg",
       "sha256": "4a8c4b84821d329b02e0d40998c884a61cbbc3eb550cf226afde043b3984f939",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I303",
@@ -7497,14 +7623,15 @@
       "file": "/food/I303.svg",
       "sha256": "b0fd72bde4f2dccd539ff2cd497d710dcb3f204113795f925ca82a40be5d6c75",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I304",
@@ -7512,14 +7639,15 @@
       "file": "/food/I304.svg",
       "sha256": "f4c9ffc42f150badbb9cea0f2f15ce99471154ad64dc13bae9b7a783977f0af0",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I305",
@@ -7527,14 +7655,15 @@
       "file": "/food/I305.svg",
       "sha256": "a5b51a580c147d326414f793747c056011f6e742e6c5e9c7ae4f38726ed11653",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I306",
@@ -7542,14 +7671,15 @@
       "file": "/food/I306.svg",
       "sha256": "7516f04ff28b99d79b91378ae501519b5a29c090585f0d6a1e423cb2d3634be8",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I307",
@@ -7557,14 +7687,15 @@
       "file": "/food/I307.svg",
       "sha256": "615c4be3fd86f5f018ebc4cc9ec413314943da64b78b37030531e86305ee3f2b",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I308",
@@ -7572,14 +7703,15 @@
       "file": "/food/I308.svg",
       "sha256": "aa48ff7f245bc2230b0a4151a07170beb7eb2b8244792740cf0b445a8e8c1fbf",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I309",
@@ -7587,14 +7719,15 @@
       "file": "/food/I309.svg",
       "sha256": "82b60d2f183f5c40387c80b99a83936437261dbe21511fba88eb3b1c1c2bf865",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I310",
@@ -7602,14 +7735,15 @@
       "file": "/food/I310.svg",
       "sha256": "a376ef9875168cc3515425006da64855aa4c3cdb9577a12d4f0ebc2dcb84b248",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I311",
@@ -7617,14 +7751,15 @@
       "file": "/food/I311.svg",
       "sha256": "e38edd380ea840a1d818c2081b570813a251b3800e5bedfb5007116398f1ea30",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I312",
@@ -7632,14 +7767,15 @@
       "file": "/food/I312.svg",
       "sha256": "ec46ad035a42aa888555a93a61127632db595c769b6194f4d52717908ec1a617",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I313",
@@ -7647,14 +7783,15 @@
       "file": "/food/I313.svg",
       "sha256": "4d7763a1026e31b858d7965f863fb947006ecf36db114f5a149e77c654c5a527",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I314",
@@ -7662,14 +7799,15 @@
       "file": "/food/I314.svg",
       "sha256": "dde5a5b19747f119f344db0c5c7109c3df7fb4a7ff5f321da04b04cd49ef08c9",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I315",
@@ -7677,14 +7815,15 @@
       "file": "/food/I315.svg",
       "sha256": "6e537e2777999e980f2af25707932dcada0af7ec29a394dd7b2be20cf062b944",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I316",
@@ -7692,14 +7831,15 @@
       "file": "/food/I316.svg",
       "sha256": "ee8ac917b343dd95af3505f708d69a1787af9e24c9a2e75f2b3fb25fc6065bae",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I317",
@@ -7707,14 +7847,15 @@
       "file": "/food/I317.svg",
       "sha256": "b85cec3dc6b16c50949ecfd45b01516bf6534ab924b2c6ff3f9755aba72c690d",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I318",
@@ -7722,14 +7863,15 @@
       "file": "/food/I318.svg",
       "sha256": "6de62fedbf74f94177d7db60e6013fa578a40ac7473d7c1fa67df4134a590174",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I319",
@@ -7737,14 +7879,15 @@
       "file": "/food/I319.svg",
       "sha256": "6c05aaa4a3a7638c6915edde133703d4993d0c5e8ad6440f38991e9be406f6b1",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I320",
@@ -7752,14 +7895,15 @@
       "file": "/food/I320.svg",
       "sha256": "57540d82e34429777a0d877bacbdda8baf10298ed99b66058bbd99411a292ec2",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I321",
@@ -7767,14 +7911,15 @@
       "file": "/food/I321.svg",
       "sha256": "f27e172eccaf11f7b9e141ab84accc960c1fc1707c6cfd8353ab7ae1532cacba",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I322",
@@ -7782,14 +7927,15 @@
       "file": "/food/I322.svg",
       "sha256": "892b3acaf6ce957e7cbe5082a0e88735027efd0b93b0379a5fbc721870e423c6",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I323",
@@ -7797,14 +7943,15 @@
       "file": "/food/I323.svg",
       "sha256": "6eafe4acf5c0fa2dec92034c9cdb6b0484c09340970fa8de750e382691fc3151",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I324",
@@ -7812,14 +7959,15 @@
       "file": "/food/I324.svg",
       "sha256": "c085f1e75ca8afca85e1dc9d1581d5bad66be788660a7efe1e8071b9651cfcaf",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I325",
@@ -7827,14 +7975,15 @@
       "file": "/food/I325.svg",
       "sha256": "ed6b5e8bee584cf0591a98b046bc1bb202c2c714163d2c294abd87dcdec2d53f",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I326",
@@ -7842,14 +7991,15 @@
       "file": "/food/I326.svg",
       "sha256": "63ad6df4ebc4c7ce7cd8d974747e9056fce6e7a306ddfaf0ce642bcb0c96f142",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I327",
@@ -7857,14 +8007,15 @@
       "file": "/food/I327.svg",
       "sha256": "8e72bcc63539ad575206f1ba1014bbd1e5c1a4e11d3dc3c534619d41a250cc33",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I328",
@@ -7872,14 +8023,15 @@
       "file": "/food/I328.svg",
       "sha256": "0a82717abbf4c6082d03275061b0c4546603c8ac19b58fdc33968a25d96c424f",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I329",
@@ -7887,14 +8039,15 @@
       "file": "/food/I329.svg",
       "sha256": "6f89e76518e982364a7788ddb85b2613664919de85ffb76f39452b0272c2280f",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I330",
@@ -7902,14 +8055,15 @@
       "file": "/food/I330.svg",
       "sha256": "7504e22b8f6b74de72a51f14c0dee9dd32c21748fedc20d61ae6e17cd1c6ff06",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I331",
@@ -7917,14 +8071,15 @@
       "file": "/food/I331.svg",
       "sha256": "adb8267e90894cc5385405d94c17844bb8599c9c0ecaf952552c4d2c02115043",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I332",
@@ -7932,14 +8087,15 @@
       "file": "/food/I332.svg",
       "sha256": "6e3c9a302c281f017982b561e1e0593f343922235f4c32bde562c5d9372cfe97",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I333",
@@ -7947,14 +8103,15 @@
       "file": "/food/I333.svg",
       "sha256": "9e4ca4c1271c74c9b622415b6e5e2cb182692b8f2307bf3f040899609f43cd06",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I334",
@@ -7962,14 +8119,15 @@
       "file": "/food/I334.svg",
       "sha256": "dbf1bf71e6bb6f1e9cc83f24829bf84ab18357f501dbedbdf178f2ed1e55709c",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I335",
@@ -7977,14 +8135,15 @@
       "file": "/food/I335.svg",
       "sha256": "8a76ac7e6b540255c39001efce240fbaaf8dab14943ff7b9c56e31f5ced5c351",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I336",
@@ -7992,14 +8151,15 @@
       "file": "/food/I336.svg",
       "sha256": "63b08fc5b4efd9e82e63dc03100c9fcd19a501dd526b33edad227de1dc501610",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I337",
@@ -8007,14 +8167,15 @@
       "file": "/food/I337.svg",
       "sha256": "2e7b8d197c90a79d0a65c74e89ae762ee298dce1f4467182fe62c763beed9fa1",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I338",
@@ -8022,14 +8183,15 @@
       "file": "/food/I338.svg",
       "sha256": "ec304fb280e2a285ce9671bc6b1d792d6a2b14e3d309be88a70ff3fae7bd1074",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I339",
@@ -8037,14 +8199,15 @@
       "file": "/food/I339.svg",
       "sha256": "93c70f0cb4270a0545f189ebf6aad282d73f257c8874bdd73743d682656fbedb",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I340",
@@ -8052,14 +8215,15 @@
       "file": "/food/I340.svg",
       "sha256": "b8ae78ee99b6eca6318dc1bc199f818de0d743d796e5efc150b367270a443b7e",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I341",
@@ -8067,14 +8231,15 @@
       "file": "/food/I341.svg",
       "sha256": "967bb65a6a0f6f5f33d21a500812f61bf9ef0efb3c8cd9c5ce2a08082bf912cf",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I342",
@@ -8082,14 +8247,15 @@
       "file": "/food/I342.svg",
       "sha256": "dbb1adca21e6ca0b54a98690ce1959f3baf4150361bb71f10e838d9dc4f7528f",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I343",
@@ -8097,14 +8263,15 @@
       "file": "/food/I343.svg",
       "sha256": "9990bc07a402a093fe0d8e7afccd18bbb6459f3dfa335af719dec818e7b82fb3",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I344",
@@ -8112,14 +8279,15 @@
       "file": "/food/I344.svg",
       "sha256": "3428906d508cab44c4fbb9ad0093b5666659b63459c60a94f5e06f3158fc9605",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I345",
@@ -8127,14 +8295,15 @@
       "file": "/food/I345.svg",
       "sha256": "8ff635d712502108c662d344317ce751391db0d6199412abadddea3191a9b065",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I346",
@@ -8142,14 +8311,15 @@
       "file": "/food/I346.svg",
       "sha256": "8daa41733cef4425537aca0750dff6662afe3f229ce1abd745243631f4e73ca1",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I347",
@@ -8157,14 +8327,15 @@
       "file": "/food/I347.svg",
       "sha256": "a76e0b0b7fa065b476dfd2710ccbaa44fb3b9bd1636cc9af5d48b5ffcf08f089",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I348",
@@ -8172,14 +8343,15 @@
       "file": "/food/I348.svg",
       "sha256": "4e98de38a419320414c0d39245f3616ffaf49b6aae6361dba09c5ec24eb92db2",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I349",
@@ -8187,14 +8359,15 @@
       "file": "/food/I349.svg",
       "sha256": "6396b0a34b288fdddb431dffbc763e5037f8fbfcafa2365bbdcd96d670c2b0b4",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I350",
@@ -8202,14 +8375,15 @@
       "file": "/food/I350.svg",
       "sha256": "df82b8a5fb69d16f4782da4273c621b548e774cd862a93adc101ed0fd9b06c7d",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I351",
@@ -8217,14 +8391,15 @@
       "file": "/food/I351.svg",
       "sha256": "9c15611edd4640dbcada05ab27c4a70adc8c2d3aca3de3aa66ed2f9d6fb008b8",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I352",
@@ -8232,14 +8407,15 @@
       "file": "/food/I352.svg",
       "sha256": "abceb29709483e2ecea7e39acf6129bfb656cafbff64fd263802a85a41e14c66",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I353",
@@ -8247,14 +8423,15 @@
       "file": "/food/I353.svg",
       "sha256": "9db9ed782d10bacd6c567a504b69aa521f56bff939c7da0e9bc14707ee2e8d61",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I354",
@@ -8262,14 +8439,15 @@
       "file": "/food/I354.svg",
       "sha256": "4fe50fedecc50fdd159e89bb936ad10618925a79f08f5703c4cf7f13d6433c26",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I355",
@@ -8277,14 +8455,15 @@
       "file": "/food/I355.svg",
       "sha256": "7f13fea4adc8a48bb119539d95729758e2fc946cfae7f61b15071521b4ad181d",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I356",
@@ -8292,14 +8471,15 @@
       "file": "/food/I356.svg",
       "sha256": "1eb6b81e2f1714f30f43ed0432aa9143051cdc4ebed22d5ca5f5e81c09fd65d7",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I357",
@@ -8307,14 +8487,15 @@
       "file": "/food/I357.svg",
       "sha256": "a900de93b51877e50021331a097b77639a23d1439aa4d0d1228944c716932ad7",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I358",
@@ -8322,14 +8503,15 @@
       "file": "/food/I358.svg",
       "sha256": "8feced06d8abc3fcbeacdc2fad5d317de27080f4a757b6a33a9b624d8394a1a4",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I359",
@@ -8337,14 +8519,15 @@
       "file": "/food/I359.svg",
       "sha256": "8dfdbf3cfd03a4d6f316228744136951d56f4e37fb1d835a0920e8b171a255eb",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I360",
@@ -8352,14 +8535,15 @@
       "file": "/food/I360.svg",
       "sha256": "43049f2b0e719e0a2a9e3f40ae7eea5958803c0557069fed72071232977b41e6",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I361",
@@ -8367,14 +8551,15 @@
       "file": "/food/I361.svg",
       "sha256": "743a4f0c091cf2ac49f3f539e3d320e7128cf05a13cb3427df4af263c00e67df",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I362",
@@ -8382,14 +8567,15 @@
       "file": "/food/I362.svg",
       "sha256": "505c1d3c7342ccdd3d23bd4acd15a7080b0a44c3e21669318f9055bdbc392eb7",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I363",
@@ -8397,14 +8583,15 @@
       "file": "/food/I363.svg",
       "sha256": "8c0f4cc1c59f8e7e2b3f0a1fa7147c26d8bb9f50540753ec8bfa8194d360b9f2",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I364",
@@ -8412,14 +8599,15 @@
       "file": "/food/I364.svg",
       "sha256": "7c3fcc5945e2b5f96fd753bf35dee056c0114e69a75ea70d11586a9a336ca9c2",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I365",
@@ -8427,14 +8615,15 @@
       "file": "/food/I365.svg",
       "sha256": "c597e208be8c089b6a846e3f82f34a699661d1117d98808ad283d9fdd4a7cd83",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I366",
@@ -8442,14 +8631,15 @@
       "file": "/food/I366.svg",
       "sha256": "42c72cbb9853a953cf89781c8697a0fb6507777dda1acc24afd2e72da329aa41",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I367",
@@ -8457,14 +8647,15 @@
       "file": "/food/I367.svg",
       "sha256": "e2154416d73f2800046211b581e9019961650d5d009f8cbe77ce15b369be08bf",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I368",
@@ -8472,14 +8663,15 @@
       "file": "/food/I368.svg",
       "sha256": "75e73bab1e1771285cfcccd7a1beb1a5c3f406f162bd8d593704f26e41de5eca",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I369",
@@ -8487,14 +8679,15 @@
       "file": "/food/I369.svg",
       "sha256": "559ec0ae95e2bd0b984345ed4c3c8572cc488a203bed2500fca7389df779f673",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I370",
@@ -8502,14 +8695,15 @@
       "file": "/food/I370.svg",
       "sha256": "6cf04296fd606b9dc6371c0be9cdb465583a308bf9aa1d1be9aef376addc4581",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I371",
@@ -8517,14 +8711,15 @@
       "file": "/food/I371.svg",
       "sha256": "13c24ecc17841ed990afe6ef7e1a6e4032a7fc1efbcc923356b3b28fda34451c",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I372",
@@ -8532,14 +8727,15 @@
       "file": "/food/I372.svg",
       "sha256": "94ad1499d40781e95884e905a5c30d7e93341ede766c40e6c68c8e1e39e282c6",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I373",
@@ -8547,14 +8743,15 @@
       "file": "/food/I373.svg",
       "sha256": "5f2c20d44b014fb6593c2cc4cb890032a63cc4a3b3b43767d5794dae33d1b810",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I374",
@@ -8562,14 +8759,15 @@
       "file": "/food/I374.svg",
       "sha256": "f572c13570481932dad4d9da040d5a9715e2ddcc0d901acd73daa02a087867a6",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I375",
@@ -8577,14 +8775,15 @@
       "file": "/food/I375.svg",
       "sha256": "bb7bb7ce3013e4281a5a2106c81fa9424ad54f6cc557c91ce4784fe9e4b07d22",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I376",
@@ -8592,14 +8791,15 @@
       "file": "/food/I376.svg",
       "sha256": "b9ea1b30d526f18f1446c1702d1fb7b7907e73c571faef3717905c7f70f1e868",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I377",
@@ -8607,14 +8807,15 @@
       "file": "/food/I377.svg",
       "sha256": "713d4368772840166e9e8e8fff5b7d86681debadd39e1dcaada92c7277645d79",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I378",
@@ -8622,14 +8823,15 @@
       "file": "/food/I378.svg",
       "sha256": "104998a65dfddce1caabf65f07849890fad4fcbfff4f9b4edd0a504f6c98cb81",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I379",
@@ -8637,14 +8839,15 @@
       "file": "/food/I379.svg",
       "sha256": "871a414d31d0af8928cfb507957db4f8f39c5dfe3085117b272c287c9c6c794d",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I380",
@@ -8652,14 +8855,15 @@
       "file": "/food/I380.svg",
       "sha256": "f9275f772d2c178b7c5c1a7a59654ebd3e7fe176a41476b6c535efdd7cf57831",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I381",
@@ -8667,14 +8871,15 @@
       "file": "/food/I381.svg",
       "sha256": "14e19c9d453daa215e963716053c62bcaf6e48b9d8d7999cdc1c0edc0c46b6a6",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I382",
@@ -8682,14 +8887,15 @@
       "file": "/food/I382.svg",
       "sha256": "b48fed1c3b9ecf48919b0a34c9c073030e6e180ec9968402a41669f4bf75bec8",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I383",
@@ -8697,14 +8903,15 @@
       "file": "/food/I383.svg",
       "sha256": "e47e5c2a66b0370e73cfd61bd8c92f8c429a0dd74c0b950a0552b78f0b624d79",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I384",
@@ -8712,14 +8919,15 @@
       "file": "/food/I384.svg",
       "sha256": "643cd0683c712c19425cc3d3b1c8c24bfa0b01c302810770e78d852b9c683497",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I385",
@@ -8727,14 +8935,15 @@
       "file": "/food/I385.svg",
       "sha256": "dec63234695cfa00429ee0cbe6f50ff9c9e98ce99df89aed891a1615bff00341",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I386",
@@ -8742,14 +8951,15 @@
       "file": "/food/I386.svg",
       "sha256": "b95e7f6b4517e847ff5115fe6c74c650f910caa27b0351ff485f39e13a99336e",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I387",
@@ -8757,14 +8967,15 @@
       "file": "/food/I387.svg",
       "sha256": "deba6de4d1ea522d0da13c0d77bfc937ea7e92ee9b7f0aa12b30c1fc1b10891b",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     },
     {
       "id": "I388",
@@ -8772,14 +8983,15 @@
       "file": "/food/I388.svg",
       "sha256": "d8d947cc9e27fd7c3e815636b4cd6c96a2e407b2db6ead236692238879572533",
       "sourceSet": "expansion-300-r05",
-      "status": "root-qa-pending",
+      "status": "qa-passed",
       "strokeStandard": {
         "color": "#756044",
         "widthAt120x100": 1.6,
         "alignment": "center",
         "cap": "round",
         "join": "round"
-      }
+      },
+      "visualReview": "actual-headless-120x100-and165px-contact-viewed"
     }
   ]
 }
