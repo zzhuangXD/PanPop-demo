@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="100" viewBox="0 0 120 100">
+<title>青萝卜</title>
+<g stroke="#756044" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M46 31 Q51 22 56 15 Q60 17 56 28 Q67 16 71 20 Q73 24 61 35Z" fill="#A5B786"/>
+<path d="M47 35 Q37 26 28 28 Q26 34 38 39Z" fill="#AABC8D"/>
+<path d="M42 34 Q52 27 65 35 Q74 43 70 57 Q67 73 52 82 Q45 87 40 91 Q42 84 40 77 Q29 65 31 51 Q30 41 42 34Z" fill="#C2CEA4"/>
+<path d="M34 57 Q47 64 69 55 Q67 74 52 82 Q45 87 40 91 Q42 84 40 77 Q34 69 34 57Z" fill="#E9E7CA" stroke="none"/>
+<path d="M39 43 Q46 37 53 39 M35 52 L41 53 M40 68 L45 69 M60 66 L64 64 M46 79 L50 77" fill="none"/>
+<path d="M68 65 Q76 56 88 59 L101 70 L97 83 Q84 91 70 83Z" fill="#C6D2A7"/>
+<path d="M68 65 Q80 61 101 70 L97 78 Q81 83 70 76Z" fill="#E8E9CA"/>
+<path d="M76 68 Q83 65 94 70 M78 72 Q86 70 91 73" fill="#D1D8AF" stroke="none"/>
+</g>
+</svg>

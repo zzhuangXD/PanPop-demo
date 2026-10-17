@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="100" viewBox="0 0 120 100">
+<title>芥菜豆腐鱼汤（成品鱼高汤版）</title>
+<g stroke="#756044" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M15 51 Q17 85 60 89 Q103 85 105 51" fill="#DCC7A5"/>
+<ellipse cx="60" cy="51" rx="45" ry="20" fill="#FFF8E7"/>
+<ellipse cx="60" cy="51" rx="39" ry="15" fill="#E4DFCA" stroke="none"/>
+<path d="M30 46 Q28 42 32 39 L35 39 L37 35 L41 37 L45 35 L48 39 Q54 38 55 43 L60 45 L58 49 L53 48 Q48 53 44 49 L39 51 L34 48Z" fill="#9AAA7C"/>
+<path d="M34 42 Q44 42 53 47 M39 40 L42 43 M46 39 L45 43" fill="none"/>
+<path d="M67 45 Q66 41 70 38 L74 39 L76 36 L81 38 L84 37 L86 41 L91 42 L89 46 L93 48 L90 52 L85 51 L82 54 L77 51 L72 52Z" fill="#A9B78A"/>
+<path d="M73 42 Q79 45 87 49 M78 40 L79 45 M85 44 L83 47" fill="none"/>
+<path d="M48 40 Q47 37 50 37 L61 35 Q68 37 68 40 L67 48 Q58 51 48 47Z" fill="#FAF1D9"/><path d="M48 40 Q58 43 68 40 M59 43 L58 49" fill="none"/>
+<path d="M28 52 Q27 49 30 49 L40 47 Q46 49 46 52 L45 60 Q37 63 28 59Z" fill="#FAF1D9"/><path d="M28 52 Q37 55 46 52 M38 55 L37 61" fill="none"/>
+<path d="M61 54 Q60 51 63 51 L74 49 Q81 51 81 54 L80 62 Q71 65 61 61Z" fill="#FAF1D9"/><path d="M61 54 Q71 57 81 54 M72 57 L71 63" fill="none"/>
+<path d="M48 54 Q47 50 52 49 L57 51 L55 55 L60 58 L55 61 L52 57 L48 57Z" fill="#A6B587"/>
+<path d="M50 52 L55 58" fill="none"/>
+<path d="M21 61.4 Q60 83 99 61.4" fill="none"/>
+</g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="100" viewBox="0 0 120 100">
+<title>胡椒猪肚汤</title>
+<g stroke="#756044" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M16 50 Q18 85 60 89 Q102 85 104 50" fill="#DEC7A0"/>
+<ellipse cx="60" cy="50" rx="44" ry="20" fill="#FFF8E7"/>
+<ellipse cx="60" cy="50" rx="38" ry="15" fill="#E6DCC0" stroke="none"/>
+<path d="M28 48 Q29 41 38 42 Q47 41 53 46 Q57 49 63 45 Q68 42 73 43 L74 48 Q68 47 65 51 Q59 55 53 51 Q44 46 37 47 Q34 47 34 51Z" fill="#E8D6AD"/>
+<path d="M43 42 Q45 36 51 36 Q56 36 60 40 L73 39 Q81 39 85 44 L82 48 Q77 44 71 45 L58 46 Q53 41 49 42 L48 46Z" fill="#F0DEBA"/>
+<path d="M37 55 Q38 49 45 51 Q50 54 57 53 L66 51 Q73 51 75 57 Q77 61 85 57 L88 60 Q78 68 72 62 Q67 57 61 59 Q49 63 43 57 L42 59Z" fill="#E8D5AA"/>
+<path d="M32 46 L35 47 M37 44 L38 46 M43 44 L43 47 M50 46 L49 49 M57 48 L57 51 M65 46 L66 49 M50 38 L50 41 M55 39 L54 42 M62 41 L62 44 M68 41 L69 44 M75 42 L74 44 M44 53 L43 55 M49 55 L48 57 M56 55 L56 58 M63 54 L64 57 M70 54 L69 57" fill="none"/>
+<path d="M29 56 Q30 52 33 53 L39 59 Q34 61 31 59Z" fill="#B5B58E"/>
+<path d="M81 51 Q84 47 89 50 L93 54 Q89 56 86 54Z" fill="#B6B48D"/>
+<path d="M84 50 L88 53 M32 55 L35 58" fill="none"/>
+<path d="M22 60.4 Q60 82 98 60.4" fill="none"/>
+</g>
+</svg>

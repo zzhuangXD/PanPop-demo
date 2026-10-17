@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="100" viewBox="0 0 120 100">
+<title>紫菜豆腐肉末汤</title>
+<g stroke="#756044" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M16 51 Q18 84 60 88 Q102 84 104 51" fill="#DEC7A0"/>
+<ellipse cx="60" cy="51" rx="44" ry="20" fill="#FFF8E7"/>
+<ellipse cx="60" cy="51" rx="38" ry="15" fill="#E1D7B8" stroke="none"/>
+<path d="M28 47 L31 42 L36 43 L38 40 L44 42 L43 46 L47 49 L42 52 L37 50 L33 53 L29 51Z" fill="#6F7562"/>
+<path d="M63 44 L67 40 L72 42 L76 39 L82 42 L80 46 L86 48 L82 52 L75 50 L71 53 L68 49 L63 48Z" fill="#747965"/>
+<path d="M46 58 L49 53 L54 55 L58 51 L63 53 L61 58 L67 60 L63 63 L56 61 L52 64Z" fill="#747961"/>
+<path d="M44 41 Q43 38 46 38 L56 36 Q62 38 62 41 L61 49 Q53 52 44 48Z" fill="#FAF1D9"/><path d="M44 41 Q53 44 62 41 M54 44 L53 50" fill="none"/>
+<path d="M27 52 Q26 49 29 50 L38 48 Q43 50 43 52 L42 60 Q35 63 27 59Z" fill="#FAF1D9"/><path d="M27 52 Q35 55 43 52 M36 55 L35 61" fill="none"/>
+<path d="M68 52 Q67 49 70 49 L80 47 Q86 49 86 52 L85 60 Q77 63 68 59Z" fill="#FAF1D9"/><path d="M68 52 Q77 55 86 52 M78 55 L77 61" fill="none"/>
+<path d="M30 45 q0 -3 3 -2 q4 -2 4 2 l-2 2 -3 -1Z" fill="#C4A68F"/>
+<path d="M61 45 q0 -3 3 -2 q4 -2 4 2 l-2 2 -3 -1Z" fill="#C4A68F"/>
+<path d="M42 52 q0 -3 3 -2 q4 -2 4 2 l-2 2 -3 -1Z" fill="#C4A68F"/>
+<path d="M64 56 q0 -3 3 -2 q4 -2 4 2 l-2 2 -3 -1Z" fill="#C4A68F"/>
+<path d="M85 52 q0 -3 3 -2 q4 -2 4 2 l-2 2 -3 -1Z" fill="#C4A68F"/>
+<path d="M51 61 q0 -3 3 -2 q4 -2 4 2 l-2 2 -3 -1Z" fill="#C4A68F"/>
+<path d="M56 50 q0 -3 3 -2 q4 -2 4 2 l-2 2 -3 -1Z" fill="#C4A68F"/>
+<path d="M42 42 l4 -1 1 2 -4 1Z" fill="#91A579" stroke="none"/>
+<path d="M63 59 l4 -1 1 2 -4 1Z" fill="#91A579" stroke="none"/>
+<path d="M82 47 l4 -1 1 2 -4 1Z" fill="#91A579" stroke="none"/>
+<path d="M31 47 L34 49 M75 44 L78 46 M53 57 L57 59" fill="#A0A18B" stroke="none"/>
+<path d="M22 61.4 Q60 83 98 61.4" fill="none"/>
+</g>
+</svg>

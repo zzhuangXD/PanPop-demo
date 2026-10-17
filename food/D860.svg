@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="100" viewBox="0 0 120 100">
+<title>青红萝卜猪骨汤</title>
+<g stroke="#756044" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M15 50 Q17 85 60 89 Q103 85 105 50" fill="#DFCAA6"/>
+<ellipse cx="60" cy="50" rx="45" ry="21" fill="#FFF8E7"/>
+<ellipse cx="60" cy="50" rx="39" ry="16" fill="#E9DCB6" stroke="none"/>
+<path d="M63.36 42 Q61.92 36.96 66.96 36.24 Q69.12 32.64 73.44 35.52 Q79.2 34.08 80.64 38.4 Q84.24 42 79.2 45.6 Q76.32 49.2 72 46.32 Q65.52 49.2 63.36 42Z" fill="#C7AD8D"/><path d="M70.56 38.4 Q74.16 36.24 77.04 39.12 L77.04 42.72 Q73.44 45.6 71.28 42.72Z" fill="#F1E5CE"/><path d="M66.24 39.84 Q69.84 41.28 68.4 44.16 M77.76 44.88 L79.2 42.72" fill="none"/>
+<path d="M27 42 Q26 38 34 36 Q41 34 51 39 L50 48 Q42 53 29 49Z" fill="#C4D1A2"/><path d="M27 42 Q37 37 51 39" fill="#DCE3BA" stroke="none"/>
+<path d="M52 50 Q51 46 58 43 Q65 41 74 47 L73 56 Q66 61 54 57Z" fill="#D99B66"/><path d="M52 50 Q61 45 74 47" fill="#EDBA83" stroke="none"/>
+<path d="M74 49 Q73 45 79 43 Q86 41 94 46 L93 55 Q87 60 76 56Z" fill="#D7DEB9"/><path d="M74 49 Q82 44 94 46" fill="#E8E9CD" stroke="none"/>
+<path d="M34 56 Q33 52 38 51 Q45 49 52 53 L51 62 Q46 67 36 63Z" fill="#E1A66C"/><path d="M34 56 Q41 51 52 53" fill="#EFBC86" stroke="none"/>
+<path d="M31 43 Q35 40 40 40 M79 50 Q82 46 87 47" fill="none"/>
+<path d="M55 40 Q58 38 61 39 M71 59 Q77 62 84 59" fill="#D3C298" stroke="none"/>
+<path d="M21 60.92 Q60 83.6 99 60.92" fill="none"/>
+</g>
+</svg>

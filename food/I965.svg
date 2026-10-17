@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="100" viewBox="0 0 120 100">
+<title>节瓜</title>
+<g stroke="#756044" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M36 26 Q43 19 53 23 Q63 25 68 38 L78 67 Q82 80 70 86 Q56 92 47 78 L26 45 Q21 33 36 26Z" fill="#B5C498"/>
+<path d="M38 27 Q42 25 45 27 Q49 41 57 55 L68 80 Q65 84 59 83 Q45 66 37 49 Q31 36 38 27Z" fill="#E0E5BF" stroke="none"/>
+<path d="M33 28 L31.5 26.5 M27 36 L25 35.5 M30 48 L28.3 49 M37 60 L35 61 M45 74 L43.5 75.5 M58 25 L59 23 M65 34 L67 33.5 M71 50 L73 49.5 M76 63 L78 63" fill="none"/>
+<path d="M35 29 L37 26 M28 40 L31 39 M40 63 L43 61 M62 41 L65 40 M68 61 L71 60" fill="#8EAB78" stroke="none"/>
+<path d="M70 55 Q78 47 88 51 Q97 55 101 66 L97 82 Q84 91 73 83 L67 69Z" fill="#D9E0B7"/>
+<path d="M70 55 Q84 50 97 60 Q102 67 95 73 Q84 80 72 73 Q64 66 70 55Z" fill="#EEF0CF"/>
+<path d="M78 60 Q84 57 89 61 Q94 65 90 69 Q84 72 79 68 Q75 65 78 60Z" fill="#E0E3BB" stroke="none"/>
+<ellipse cx="82" cy="63" rx="1" ry="2" fill="#EDEAC8" stroke="none"/>
+<ellipse cx="87" cy="65" rx="1" ry="2" fill="#EDEAC8" stroke="none"/>
+</g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="100" viewBox="0 0 120 100">
+<title>冬瓜粒汤</title>
+<g stroke="#756044" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M14 51 Q16 84 60 88 Q104 84 106 51" fill="#DEC7A0"/>
+<ellipse cx="60" cy="51" rx="46" ry="20" fill="#FFF8E7"/>
+<ellipse cx="60" cy="51" rx="40" ry="15" fill="#E8D8AA" stroke="none"/>
+<path d="M29 42 Q28 40 32 39 L39 41 L39 47 Q34 50 29 47Z" fill="#E2E5C4"/>
+<path d="M45 38 Q44 36 48 35 L55 37 L55 43 Q50 46 45 43Z" fill="#E2E5C4"/>
+<path d="M64 41 Q63 39 67 38 L74 40 L74 46 Q69 49 64 46Z" fill="#E2E5C4"/>
+<path d="M78 46 Q77 44 81 43 L88 45 L88 51 Q83 54 78 51Z" fill="#E2E5C4"/>
+<path d="M34 54 Q33 52 37 51 L44 53 L44 59 Q39 62 34 59Z" fill="#E2E5C4"/>
+<path d="M55 53 Q54 51 58 50 L65 52 L65 58 Q60 61 55 58Z" fill="#E2E5C4"/>
+<path d="M72 55 Q71 53 75 52 L82 54 L82 60 Q77 63 72 60Z" fill="#E2E5C4"/>
+<path d="M30 49 Q38 43 43 48 Q46 52 51 47 Q56 43 61 47 L60 50 Q54 47 52 52 Q48 56 42 52 Q36 48 31 53Z" fill="#F1D98D"/>
+<path d="M56 57 Q63 52 69 55 Q73 59 80 54 L85 55 Q80 63 74 61 Q68 57 63 60Z" fill="#F4DEA2"/>
+<path d="M73 42 Q75 36 81 39 Q87 40 86 45 Q80 43 73 45Z" fill="#A58A66"/>
+<path d="M43 55 Q46 49 51 53 L53 57 Q48 56 43 58Z" fill="#AB8A62"/>
+<path d="M32 55 q0 -3 3 -2 l2 2 -1 2 -3 0Z" fill="#CAA98F" stroke="none"/>
+<path d="M55 44 q0 -3 3 -2 l2 2 -1 2 -3 0Z" fill="#CAA98F" stroke="none"/>
+<path d="M67 51 q0 -3 3 -2 l2 2 -1 2 -3 0Z" fill="#CAA98F" stroke="none"/>
+<path d="M85 54 q0 -3 3 -2 l2 2 -1 2 -3 0Z" fill="#CAA98F" stroke="none"/>
+<path d="M47 60 q0 -3 3 -2 l2 2 -1 2 -3 0Z" fill="#CAA98F" stroke="none"/>
+<path d="M75 46 q0 -3 3 -2 l2 2 -1 2 -3 0Z" fill="#CAA98F" stroke="none"/>
+<path d="M20 61.4 Q60 83 100 61.4" fill="none"/>
+</g>
+</svg>
